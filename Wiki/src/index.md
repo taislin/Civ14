@@ -1,6 +1,6 @@
 # Civilization 14
 
-<img src="./../../Resources/Textures/Logo/splash.png" height="400">
+<img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Logo/splash.png" height="400">
 
 Welcome!
 
