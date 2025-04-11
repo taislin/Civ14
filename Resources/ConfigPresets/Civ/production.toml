@@ -71,7 +71,7 @@ pg_password = ""
 discord = "https://discord.gg/hBEtg4x"
 website = "https://civ13.com"
 github = "https://github.com/Civ13/Civ14"
-wiki = "https://civ13.github.io/Civ14/Civ14-Wiki"
+wiki = "https://civ13.github.io/Civ14"
 
 [server]
 lobby_right_panel_width = 300

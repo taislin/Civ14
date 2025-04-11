@@ -5,9 +5,13 @@ This wiki is hosted and deployed on GitHub from the main [Civ14 repository](http
 ## I am barely sentient
 
 1. Access the Civ14 repository [here](https://github.com/Civ13/Civ14). Create a GitHub account if you haven't already. Then, press the Fork button on the top right. this will create a copy of the game files on your account.
-   ![fork button](images/meta-forking.png)
+
+    ![fork button](images/meta-forking.png)
+
 2. Go to your repositories, open `Civ14`, and open the `Wiki` folder. You will see a bunch of .md files. Edit them through GitHub. Use [markdown](https://www.markdownguide.org/).
-   ![edit page](images/meta-edit-file.png)
+
+    ![edit page](images/meta-edit-file.png)
+
 3. When done, create a pull request on your repository to the Civ14 repository. You will figure this out.
 
 ```admonish note

@@ -1,6 +1,6 @@
 # How to play
 
-```adminish note
+```admonish note
 This article is about how to download and join the game. If you are looking for instructions on how to play once inside the game, check [the starter guide instead](starter_guide.md).
 ```
 
