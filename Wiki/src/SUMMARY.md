@@ -6,8 +6,10 @@ Meta
 ====
 
 ----------------------
+
 -   [Rules](rules/rules.md)
 -   [How to Play](guides/playing.md)
+-   [Editing the Wiki](contributing.md)
 
 Guides
 ======
