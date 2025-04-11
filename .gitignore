@@ -321,3 +321,4 @@ Wiki/*.swp
 
 # VSCodium files
 Wiki/.vscode/
+*.code-workspace
