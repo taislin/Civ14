@@ -1,11 +1,18 @@
-# Civilization 14 Wiki
-
+Civilization 14 Wiki
+=====================
 -   [Main Page](index.md)
+
+Meta
+====
+
+----------------------
 -   [Rules](rules/rules.md)
 -   [How to Play](guides/playing.md)
 
-## Guides
+Guides
+======
 
+----------------------
 -   [Starter Guide](guides/starter_guide.md)
 -   [Farming](guides/guide_to_farming.md)
 -   [Construction](guides/guide_to_construction.md)
@@ -14,8 +21,10 @@
 -   [Medical](guides/guide_to_medical.md)
 -   [Combat](guides/guide_to_combat.md)
 
-## Gamemodes
+Gamemodes
+=========
 
+----------------------
 -   [Nomads](gamemodes/nomads.md)
 -   [TDM](gamemodes/tdm.md)
 -   [Art of the Deal](gamemodes/aotd.md)
