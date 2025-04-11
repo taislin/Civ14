@@ -1,0 +1,72 @@
+name: Compile and Update Compiled Client
+
+on:
+  push:
+    branches:
+      - master # Trigger on push to master branch
+
+jobs:
+  compile-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install dependencies
+        run: sudo apt-get install -y python3-paramiko python3-lxml
+
+      - name: Checkout Source Repo (Civ14)
+        uses: actions/checkout@v3.6.0
+        with:
+          submodules: "recursive"
+
+      - name: Setup .NET Core
+        uses: actions/setup-dotnet@v3.2.0
+        with:
+          dotnet-version: 9.0.x
+
+      - name: Setup Submodule
+        run: |
+          git submodule update --init --recursive
+
+      - name: Pull engine updates
+        uses: space-wizards/submodule-dependency@v0.1.5
+
+      - name: Update Engine Submodules
+        run: |
+          cd RobustToolbox/
+          git submodule update --init --recursive
+
+      - name: Install dependencies
+        run: dotnet restore
+
+      - name: Package Client
+        run: dotnet build -c Release -r win-x64 Content.Client
+
+      - name: Checkout Target Repo (Compiled Client)
+        uses: actions/checkout@v4
+        with:
+          repository: taislin/civ14_compiled_client
+          token: ${{ secrets.TARGET_REPO_TOKEN }}
+          path: target-repo
+
+      - name: Debug Build Output
+        run: |
+          echo "Current directory: $(pwd)"
+          ls -la
+          find . -type d -name "bin"  # Find all 'bin' directories
+          find . -type f -name "*.dll"  # Find compiled DLLs
+          find . -type f -name "*.exe"  # Find compiled EXEs
+          ls -la ./bin/Content.Client/ || echo "Directory not found"
+
+      - name: Update Target Repo
+        run: |
+          # Copy compiled output to target-repo/
+          rsync -av --ignore-existing ./bin/Content.Client/win-x64/ target-repo/ || true
+          cd target-repo
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add .
+          if git status --porcelain | grep .; then
+            git commit -m "Update compiled client from Civ14 - changed files only"
+            git push
+          else
+            echo "No changes detected, skipping commit and push"
+          fi

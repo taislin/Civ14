@@ -4,49 +4,15 @@
   components:
     - type: NpcFactionMember
       factions:
-        - NanoTrasen
-
-- type: entity
-  id: StandardNanotrasenStation
-  parent:
-    - BaseStation
-    - BaseStationNews
-    - BaseStationCargo
-    - BaseStationJobsSpawning
-    - BaseStationRecords
-    - BaseStationArrivals
-    - BaseStationGateway
-    - BaseStationShuttles
-    - BaseStationCentcomm
-    - BaseStationEvacuation
-    - BaseStationAlertLevels
-    - BaseStationMagnet
-    - BaseStationExpeditions
-    - BaseStationSiliconLawCrewsimov
-    - BaseStationAllEventsEligible
-    - BaseStationNanotrasen
-    - BaseStationDeliveries
-  categories: [ HideSpawnMenu ]
-  components:
-    - type: Transform
-
-- type: entity
-  id: NanotrasenCentralCommand
-  parent:
-    - BaseStation
-    - BaseStationAlertLevels
-    - BaseStationNanotrasen
-  categories: [ HideSpawnMenu ]
-  components:
-    - type: Transform
+        - Nomads
 
 - type: entity
   id: StandardStationArena
   parent:
-  - BaseStation
-  - BaseStationJobsSpawning
-  - BaseStationRecords
-  - BaseStationNanotrasen
-  categories: [ HideSpawnMenu ]
+    - BaseStation
+    - BaseStationJobsSpawning
+    - BaseStationRecords
+    - BaseStationNanotrasen
+  categories: [HideSpawnMenu]
   components:
     - type: Transform

@@ -8,7 +8,7 @@
 - type: stack
   id: WoodPlank
   name: wood plank
-  icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: wood }
+  icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: logs }
   spawn: MaterialWoodPlank1
   maxCount: 30
 
@@ -62,6 +62,13 @@
   maxCount: 10
 
 - type: stack
+  id: Copper
+  name: copper
+  icon: { sprite: /Textures/Objects/Materials/ingots.rsi, state: copper }
+  spawn: MaterialCopper1
+  maxCount: 10
+
+- type: stack
   id: MeatSheets
   name: meat sheet
   icon: { sprite: /Textures/Objects/Materials/Sheets/meaterial.rsi, state: meat }
@@ -78,21 +85,21 @@
 - type: stack
   id: SpaceCarpTooth
   name: space carp tooth
-  icon: { sprite: /Textures/Objects/Materials/Mob/carptooth.rsi, state: tooth}
+  icon: { sprite: /Textures/Objects/Materials/Mob/carptooth.rsi, state: tooth }
   spawn: MaterialToothSpaceCarp1
   maxCount: 30
 
 - type: stack
   id: SharkMinnowTooth
   name: sharkminnow tooth
-  icon: { sprite: /Textures/Objects/Materials/Mob/sharktooth.rsi, state: tooth}
+  icon: { sprite: /Textures/Objects/Materials/Mob/sharktooth.rsi, state: tooth }
   spawn: MaterialToothSharkminnow1
   maxCount: 30
 
 - type: stack
   id: Bones
   name: bones
-  icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: bones}
+  icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: bones }
   spawn: MaterialBones1
   maxCount: 30
 

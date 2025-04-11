@@ -3,24 +3,11 @@
   priority: 11
   showTo:
     components:
-    - ShowAntagIcons
-    - Zombie
-    - InitialInfected
+      - ShowAntagIcons
+      - Zombie
   icon:
     sprite: /Textures/Interface/Misc/job_icons.rsi
     state: Zombie
-
-- type: factionIcon
-  id: InitialInfectedFaction
-  priority: 11
-  showTo:
-    components:
-    - ShowAntagIcons
-    - InitialInfected
-    - Zombie
-  icon:
-    sprite: /Textures/Interface/Misc/job_icons.rsi
-    state: InitialInfected
 
 - type: factionIcon
   id: RevolutionaryFaction
@@ -53,3 +40,81 @@
   icon:
     sprite: /Textures/Interface/Misc/job_icons.rsi
     state: Syndicate
+
+- type: factionIcon
+  id: NomadsFaction1
+  priority: 0
+  locationPreference: Right
+  showTo:
+    components:
+      - ShowAntagIcons
+  icon:
+    sprite: /Textures/Interface/Misc/civ_hud.rsi
+    state: civ1
+
+- type: factionIcon
+  id: NomadsFaction2
+  priority: 0
+  locationPreference: Right
+  showTo:
+    components:
+      - ShowAntagIcons
+  icon:
+    sprite: /Textures/Interface/Misc/civ_hud.rsi
+    state: civ2
+
+- type: factionIcon
+  id: NomadsFaction3
+  priority: 0
+  locationPreference: Right
+  showTo:
+    components:
+      - ShowAntagIcons
+  icon:
+    sprite: /Textures/Interface/Misc/civ_hud.rsi
+    state: civ3
+
+- type: factionIcon
+  id: NomadsFaction4
+  priority: 0
+  locationPreference: Right
+  showTo:
+    components:
+      - ShowAntagIcons
+  icon:
+    sprite: /Textures/Interface/Misc/civ_hud.rsi
+    state: civ4
+
+- type: factionIcon
+  id: NomadsFaction5
+  priority: 0
+  locationPreference: Right
+  showTo:
+    components:
+      - ShowAntagIcons
+  icon:
+    sprite: /Textures/Interface/Misc/civ_hud.rsi
+    state: civ5
+
+- type: factionIcon
+  id: NomadsFaction6
+  priority: 0
+  locationPreference: Right
+  showTo:
+    components:
+      - ShowAntagIcons
+  icon:
+    sprite: /Textures/Interface/Misc/civ_hud.rsi
+    state: civ6
+
+- type: factionIcon
+  id: HostileFaction
+  priority: 0
+  locationPreference: Right
+  showTo:
+    components:
+      - ShowAntagIcons
+      - ShowSyndicateIcons
+  icon:
+    sprite: /Textures/Interface/Misc/civ_hud.rsi
+    state: hostile

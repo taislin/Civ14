@@ -2,8 +2,11 @@
 # Straight in-game baby
 lobbyenabled = false
 # Dev map for faster loading & convenience
-map = "Dev"
+map = "Nomads"
 role_timers = false
+
+[events]
+enabled = false
 
 [ghost]
 role_time = 0.5
@@ -31,3 +34,6 @@ preload_grids = false
 
 [admin]
 see_own_notes = true
+
+[net]
+tickrate = 20

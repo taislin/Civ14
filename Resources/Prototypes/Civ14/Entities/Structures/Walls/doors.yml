@@ -1,0 +1,37 @@
+- type: entity
+  id: WoodDoorRustic
+  name: rustic wooden door
+  parent: WoodDoor
+  description: A rustic wooden door.
+  components:
+    - type: Sprite
+      sprite: Civ14/Structures/Doors/wood_door_rustic.rsi
+      layers:
+        - state: closed
+          map: ["enum.DoorVisualLayers.Base"]
+    - type: Door
+      changeAirtight: false
+    - type: Construction
+      agemin: 0
+      agemax: 8
+      graph: WoodDoorRustic
+      node: end
+
+- type: entity
+  id: WoodDoorClassic
+  name: wooden door
+  parent: WoodDoor
+  description: A classic wooden door.
+  components:
+    - type: Sprite
+      sprite: Civ14/Structures/Doors/wood_door_classic.rsi
+      layers:
+        - state: closed
+          map: ["enum.DoorVisualLayers.Base"]
+    - type: Door
+      changeAirtight: false
+    - type: Construction
+      agemin: 0
+      agemax: 8
+      graph: WoodDoorClassic
+      node: end

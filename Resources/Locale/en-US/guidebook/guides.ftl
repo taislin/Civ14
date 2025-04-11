@@ -1,4 +1,4 @@
-guide-entry-ss14 = Station and Shifts
+guide-entry-ss14 = Guides
 guide-entry-engineering = Engineering
 guide-entry-construction = Construction
 guide-entry-expandingrepairingstation = Expanding and Repairing Stations
@@ -91,6 +91,9 @@ guide-entry-service = Service
 
 guide-entry-newplayer = New? Start here!
 guide-entry-charactercreation = Creating Characters
+guide-entry-nomads = Nomads Gamemode
+guide-entry-nomads-starterguide = Starter Guide
+guide-entry-nomads-farming = Farming
 guide-entry-species = Species
 guide-entry-yourfirstcharacter = Your First Character
 guide-entry-controls = Controls

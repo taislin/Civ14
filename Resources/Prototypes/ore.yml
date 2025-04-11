@@ -59,6 +59,18 @@
   maxOreYield: 2
 
 - type: ore
+  id: OreCopper
+  oreEntity: CopperOre1
+  minOreYield: 2
+  maxOreYield: 4
+
+- type: ore
+  id: OreIron
+  oreEntity: IronOre1
+  minOreYield: 2
+  maxOreYield: 4
+
+- type: ore
   id: OreDiamond
   oreEntity: DiamondOre1
   minOreYield: 1
@@ -73,8 +85,16 @@
   oreEntity: MobSpawnCrabIron
 
 - type: ore
+  id: OreCoalCrab
+  oreEntity: MobSpawnCrabCoal
+
+- type: ore
   id: OreSilverCrab
   oreEntity: MobSpawnCrabSilver
+
+- type: ore
+  id: OreGoldCrab
+  oreEntity: MobSpawnCrabGold
 
 - type: ore
   id: OreUraniumCrab

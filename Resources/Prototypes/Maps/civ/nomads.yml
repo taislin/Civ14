@@ -1,0 +1,15 @@
+- type: gameMap
+  id: Nomads
+  mapName: "Nomads Classic"
+  mapPath: /Maps/civ/nomads_classic.yml
+  minPlayers: 0
+  maxPlayers: 256
+  stations:
+    Nomads:
+      stationProto: StandardStationArena
+      components:
+        - type: StationNameSetup
+          mapNameTemplate: "Nomads Classic"
+        - type: StationJobs
+          availableJobs:
+            Nomad: [-1, -1]

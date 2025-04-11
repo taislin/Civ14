@@ -33,7 +33,7 @@ public sealed partial class CCVars
     ///     Controls the default game preset.
     /// </summary>
     public static readonly CVarDef<string>
-        GameLobbyDefaultPreset = CVarDef.Create("game.defaultpreset", "secret", CVar.ARCHIVE);
+        GameLobbyDefaultPreset = CVarDef.Create("game.defaultpreset", "extended", CVar.ARCHIVE);
 
     /// <summary>
     ///     Controls if the game can force a different preset if the current preset's criteria are not met.
@@ -82,7 +82,7 @@ public sealed partial class CCVars
     ///     If the save file exists, it replaces MapPath but everything else stays the same (station name and such).
     /// </summary>
     public static readonly CVarDef<string>
-        PersistenceMap = CVarDef.Create("game.persistencemap", "Empty", CVar.ARCHIVE);
+        PersistenceMap = CVarDef.Create("game.persistencemap", "Nomads", CVar.ARCHIVE);
 
     /// <summary>
     ///     Prototype to use for map pool.

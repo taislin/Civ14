@@ -6,7 +6,7 @@ using Robust.Shared.Utility;
 
 namespace Content.Shared.Construction.Prototypes;
 
-[Prototype("construction")]
+[Prototype]
 public sealed partial class ConstructionPrototype : IPrototype
 {
     [DataField("conditions")] private List<IConstructionCondition> _conditions = new();
@@ -64,6 +64,12 @@ public sealed partial class ConstructionPrototype : IPrototype
     /// </summary>
     [DataField("canBuildInImpassable")]
     public bool CanBuildInImpassable { get; private set; }
+
+    [DataField("agemax")]
+    public int AgeMax { get; set; } = 8;
+
+    [DataField("agemin")]
+    public int AgeMin { get; set; } = 8;
 
     /// <summary>
     /// If not null, then this is used to check if the entity trying to construct this is whitelisted.

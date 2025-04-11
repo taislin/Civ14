@@ -118,6 +118,9 @@
   id: BorgModuleMedical
 
 - type: Tag
+  id: BorgModuleScience
+
+- type: Tag
   id: BorgModuleService
 
 - type: Tag
@@ -420,6 +423,9 @@
   id: Cryobeaker
 
 - type: Tag
+  id: CrystalBlack
+
+- type: Tag
   id: CrystalBlue
 
 - type: Tag
@@ -436,6 +442,9 @@
 
 - type: Tag
   id: CrystalRed
+
+- type: Tag
+  id: CrystalYellow
 
 - type: Tag
   id: CubanCarp
@@ -949,6 +958,9 @@
   id: Packet
 
 - type: Tag
+  id: ParadoxCloneObjectiveBlacklist # objective entities with this tag don't get copied to paradox clones
+
+- type: Tag
   id: Paper
 
 - type: Tag
@@ -1131,6 +1143,12 @@
 
 - type: Tag
   id: SecwayKeys
+
+- type: Tag
+  id: SharpenedStick
+
+- type: Tag
+  id: SharpenedFlint
 
 - type: Tag
   id: Sheet
@@ -1395,5 +1413,7 @@
 
 - type: Tag
   id: WriteIgnoreStamps
-
 # ALPHABETICAL
+
+- type: Tag
+  id: Paintable
