@@ -58,7 +58,7 @@ To survive, you will need to keep yourself nourished and warm. Pay attention to 
 The easiest way to get food early on is by killing animals and eating the meat after cooking it. Also, you can eat bird eggs, even uncooked!
 
 -   Find an animal, preferably one that doesn't have fangs, claws, tusks, or poison. and kill it with any means (even bare fists work). Remember to press the **harm intent** button to enter combat mode!
-    <img src="./../../../Resources/Textures/Interface/Actions/harm.png" style="width:64px;height:64px;image-rendering: pixelated;"> <img src="./../../../Resources/Textures/Interface/Actions/harmOff.png" style="width:64px;height:64px;image-rendering: pixelated;">
+    <img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Interface/Actions/harm.png" style="width:64px;height:64px;image-rendering: pixelated;"> <img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Interface/Actions/harmOff.png" style="width:64px;height:64px;image-rendering: pixelated;">
 
 **Tip:** For now, stay away from bears, alligators, wolves, snakes, and mammoths. They will fight back and very probably kill you. Wait until you have proper equipment or a hunting party with you.
 
@@ -100,14 +100,14 @@ Southern climates could be merciless in their own way, so be careful that you do
 
 ### Fur Clothing
 
-<img src="./../../../Resources/Textures/Civ14/Clothing/exported/suits/prehistoric_fur2.rsi/icon.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="./../../../Resources/Textures/Civ14/Clothing/exported/suits/fur_jacket1.rsi/icon.png" style="width:64px;height:64px;image-rendering: pixelated;">
+<img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Clothing/exported/suits/prehistoric_fur2.rsi/icon.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Clothing/exported/suits/fur_jacket1.rsi/icon.png" style="width:64px;height:64px;image-rendering: pixelated;">
 Fur clothing can keep you warm in the winter, but it will not save you if you are caught in a blizzard. You can make fur clothing by skinning large furry animals like **bears** and **wolves**. <sub>Yes, you can finally skin furries with no repercussions.</sub>
 
 -   Kill one of the following animals: **bear, wolf, bison, monkey, fox, sheep**.
 -   Bucher the animal by using the **knife** on **Harm Intent**.
 -   Collect enough pelts and craft **fur coat, boots, headcover and gloves** (you might need to hunt several animals for the whole set).
 
-    -   <img src="./../../../Resources/Textures/Objects/Materials/materials.rsi/sheet-brownbearpelt.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="./../../../Resources/Textures/Objects/Materials/materials.rsi/sheet-wolfpelt.png" style="width:64px;height:64px;image-rendering: pixelated;">
+    -   <img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Objects/Materials/materials.rsi/sheet-brownbearpelt.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Objects/Materials/materials.rsi/sheet-wolfpelt.png" style="width:64px;height:64px;image-rendering: pixelated;">
 
 ## Shelter
 
@@ -124,7 +124,7 @@ Any roofed area is considered a shelter.
 
 ## Fire
 
-<img src="./../../../Resources/Textures/Civ14/Objects/kitchen.rsi/fireplace_on.png" style="width:64px;height:64px;image-rendering: pixelated;">Crackling fires will keep you warm even without a coat. Both campfires and braziers are refueled by adding **wood**, **coal** and **charcoal**. The brazier could also be refueled with **paper- and cloth-based items**.
+<img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Objects/kitchen.rsi/fireplace_on.png" style="width:64px;height:64px;image-rendering: pixelated;">Crackling fires will keep you warm even without a coat. Both campfires and braziers are refueled by adding **wood**, **coal** and **charcoal**. The brazier could also be refueled with **paper- and cloth-based items**.
 
 -   A **campfire** warms you when you are right next to it, or within 2 tile.
 -   A **brazier** (made with **stone**) provides more heat and warms you within 3 tiles.
@@ -135,14 +135,14 @@ Any roofed area is considered a shelter.
 
 You want to avoid these, unless you're robust or need some pelts:
 
--   ![brown bear](./../../../Resources/Textures/Civ14/Mobs/animal_64.rsi/brownbear.png)Bears (can provide fur)
--   ![white wolf](./../../../Resources/Textures/Civ14/Mobs/animal.rsi/whitewolf.png)![grey wolf](./../../../Resources/Textures/Civ14/Mobs/animal.rsi/greywolf.png)Wolves (can provide fur)
--   ![mammoth](./../../../Resources/Textures/Civ14/Mobs/animal_128.rsi/mammoth.png)Mammoths
--   ![sabertooth](./../../../Resources/Textures/Civ14/Mobs/animal_big.rsi/sabertoothcat_brown.png)![liom](./../../../Resources/Textures/Civ14/Mobs/animal_big.rsi/lion.png)Panthers, Jaguars, Lions, and other big cats
--   ![alligator](./../../../Resources/Textures/Civ14/Mobs/animal_big.rsi/alligator.png)Alligators
+-   ![brown bear](https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Mobs/animal_64.rsi/brownbear.png)Bears (can provide fur)
+-   ![white wolf](https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Mobs/animal.rsi/whitewolf.png)![grey wolf](https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Mobs/animal.rsi/greywolf.png)Wolves (can provide fur)
+-   ![mammoth](https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Mobs/animal_128.rsi/mammoth.png)Mammoths
+-   ![sabertooth](https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Mobs/animal_big.rsi/sabertoothcat_brown.png)![liom](https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Mobs/animal_big.rsi/lion.png)Panthers, Jaguars, Lions, and other big cats
+-   ![alligator](https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Mobs/animal_big.rsi/alligator.png)Alligators
 
-![cave den](./../../../Resources/Textures/Civ14/Objects/animal_spawner.rsi/cave_den2.png)
-![cave den](./../../../Resources/Textures/Civ14/Objects/animal_spawner.rsi/cave_den-foliage.png)
+![cave den](https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Objects/animal_spawner.rsi/cave_den2.png)
+![cave den](https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Objects/animal_spawner.rsi/cave_den-foliage.png)
 Also keep an eye for animal dens. Dangerous animals will spawn here!
 
 ## Night time
@@ -161,18 +161,18 @@ You'll need a light source to see in the night and in dark indoor areas. The bas
 
 In the Stone age, most of the medicine you will find is restricted to bandages and medicinal herbs.
 
-![leather bandage](./../../../Resources/Textures/Civ14/Objects/surgery.rsi/leatherbandage.png)![cloth bandage](./../../../Resources/Textures/Civ14/Objects/surgery.rsi/bint.png) You can craft bandages from **cloth** or **leather**. They will help you stop bleeding.
+![leather bandage](https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Objects/surgery.rsi/leatherbandage.png)![cloth bandage](https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Objects/surgery.rsi/bint.png) You can craft bandages from **cloth** or **leather**. They will help you stop bleeding.
 
 You can find medicinal herbs growing wild around the map. If you harvest them, you will also get some seeds so you can plant them yourself - see the [guide to farming](guide_to_farming.md).
 
-<img src="./../../../Resources/Textures/Civ14/Objects/Farming/elderflower.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="./../../../Resources/Textures/Civ14/Objects/Farming/elderflower.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Elderflower** has a long history in European folk medicine for treating colds and sinus issues. It reduces asphyxiation by clearing airways and boosting oxygen intake.
+<img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Objects/Farming/elderflower.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Objects/Farming/elderflower.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Elderflower** has a long history in European folk medicine for treating colds and sinus issues. It reduces asphyxiation by clearing airways and boosting oxygen intake.
 
-<img src="./../../../Resources/Textures/Civ14/Objects/Farming/yarrow.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="./../../../Resources/Textures/Civ14/Objects/Farming/yarrow.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Yarrow** has been used since ancient times as a hemostatic (blood-clotting) agent. It’s known for its astringent properties that help staunch bleeding.
+<img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Objects/Farming/yarrow.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Civ14/Objects/Farming/yarrow.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Yarrow** has been used since ancient times as a hemostatic (blood-clotting) agent. It’s known for its astringent properties that help staunch bleeding.
 
-<img src="./../../../Resources/Textures/Objects/Specific/Hydroponics/spacemans_trumpet.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="./../../../Resources/Textures/Objects/Specific/Hydroponics/spacemans_trumpet.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Comfrey** has been used historically to heal bruises, sprains, and fractures due to its anti-inflammatory and tissue-repair properties. Heals brute damage.
+<img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Objects/Specific/Hydroponics/spacemans_trumpet.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Objects/Specific/Hydroponics/spacemans_trumpet.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Comfrey** has been used historically to heal bruises, sprains, and fractures due to its anti-inflammatory and tissue-repair properties. Heals brute damage.
 
-<img src="./../../../Resources/Textures/Objects/Specific/Hydroponics/galaxythistle.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="./../../../Resources/Textures/Objects/Specific/Hydroponics/galaxythistle.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Milk Thistle** has long been used as a liver tonic, with silymarin compounds believed to detoxify and protect against poisons.
+<img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Objects/Specific/Hydroponics/galaxythistle.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Objects/Specific/Hydroponics/galaxythistle.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Milk Thistle** has long been used as a liver tonic, with silymarin compounds believed to detoxify and protect against poisons.
 
-<img src="./../../../Resources/Textures/Objects/Specific/Hydroponics/poppy.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="./../../../Resources/Textures/Objects/Specific/Hydroponics/poppy.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Poppy** is the source of opium and morphine, known for sedative and pain-relieving effects, but it can also stabilize shock in small doses by calming the nervous system. Historically, it’s been used for pain and trauma management.
+<img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Objects/Specific/Hydroponics/poppy.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Objects/Specific/Hydroponics/poppy.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Poppy** is the source of opium and morphine, known for sedative and pain-relieving effects, but it can also stabilize shock in small doses by calming the nervous system. Historically, it’s been used for pain and trauma management.
 
-<img src="./../../../Resources/Textures/Objects/Specific/Hydroponics/aloe.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="./../../../Resources/Textures/Objects/Specific/Hydroponics/aloe.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Aloe vera**’s gel is a well-documented remedy for burns, soothing inflammation and promoting skin healing.
+<img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Objects/Specific/Hydroponics/aloe.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/taislin/Civ14/refs/heads/master/Textures/Objects/Specific/Hydroponics/aloe.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Aloe vera**’s gel is a well-documented remedy for burns, soothing inflammation and promoting skin healing.
