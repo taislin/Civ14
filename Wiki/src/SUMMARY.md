@@ -19,8 +19,3 @@
 -   [Nomads](gamemodes/nomads.md)
 -   [TDM](gamemodes/tdm.md)
 -   [Art of the Deal](gamemodes/aotd.md)
-
-## Links
-
--   [Discord](https://discord.gg/hBEtg4x)
--   [Github](https://github.com/civ13/civ14)
