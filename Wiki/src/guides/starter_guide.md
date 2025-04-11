@@ -135,14 +135,14 @@ Any roofed area is considered a shelter.
 
 You want to avoid these, unless you're robust or need some pelts:
 
--   ![brown bear](./../../Resources/Textures/Civ14/Mobs/animal_64.rsi/brownbear.png)Bears (can provide fur)
--   ![white wolf](./../../Resources/Textures/Civ14/Mobs/animal.rsi/whitewolf.png)![grey wolf](./../../Resources/Textures/Civ14/Mobs/animal.rsi/greywolf.png)Wolves (can provide fur)
--   ![mammoth](./../../Resources/Textures/Civ14/Mobs/animal_128.rsi/mammoth.png)Mammoths
--   ![sabertooth](./../../Resources/Textures/Civ14/Mobs/animal_big.rsi/sabertoothcat_brown.png)![liom](./../../Resources/Textures/Civ14/Mobs/animal_big.rsi/lion.png)Panthers, Jaguars, Lions, and other big cats
--   ![alligator](./../../Resources/Textures/Civ14/Mobs/animal_big.rsi/alligator.png)Alligators
+-   ![brown bear](./../../../Resources/Textures/Civ14/Mobs/animal_64.rsi/brownbear.png)Bears (can provide fur)
+-   ![white wolf](./../../../Resources/Textures/Civ14/Mobs/animal.rsi/whitewolf.png)![grey wolf](./../../../Resources/Textures/Civ14/Mobs/animal.rsi/greywolf.png)Wolves (can provide fur)
+-   ![mammoth](./../../../Resources/Textures/Civ14/Mobs/animal_128.rsi/mammoth.png)Mammoths
+-   ![sabertooth](./../../../Resources/Textures/Civ14/Mobs/animal_big.rsi/sabertoothcat_brown.png)![liom](./../../../Resources/Textures/Civ14/Mobs/animal_big.rsi/lion.png)Panthers, Jaguars, Lions, and other big cats
+-   ![alligator](./../../../Resources/Textures/Civ14/Mobs/animal_big.rsi/alligator.png)Alligators
 
-![cave den](./../../Resources/Textures/Civ14/Objects/animal_spawner.rsi/cave_den2.png)
-![cave den](./../../Resources/Textures/Civ14/Objects/animal_spawner.rsi/cave_den-foliage.png)
+![cave den](./../../../Resources/Textures/Civ14/Objects/animal_spawner.rsi/cave_den2.png)
+![cave den](./../../../Resources/Textures/Civ14/Objects/animal_spawner.rsi/cave_den-foliage.png)
 Also keep an eye for animal dens. Dangerous animals will spawn here!
 
 ## Night time
@@ -161,7 +161,7 @@ You'll need a light source to see in the night and in dark indoor areas. The bas
 
 In the Stone age, most of the medicine you will find is restricted to bandages and medicinal herbs.
 
-![leather bandage](./../../Resources/Textures/Civ14/Objects/surgery.rsi/leatherbandage.png)![cloth bandage](./../../Resources/Textures/Civ14/Objects/surgery.rsi/bint.png) You can craft bandages from **cloth** or **leather**. They will help you stop bleeding.
+![leather bandage](./../../../Resources/Textures/Civ14/Objects/surgery.rsi/leatherbandage.png)![cloth bandage](./../../../Resources/Textures/Civ14/Objects/surgery.rsi/bint.png) You can craft bandages from **cloth** or **leather**. They will help you stop bleeding.
 
 You can find medicinal herbs growing wild around the map. If you harvest them, you will also get some seeds so you can plant them yourself - see the [guide to farming](guide_to_farming.md).
 
