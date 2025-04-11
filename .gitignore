@@ -310,3 +310,14 @@ Civ14.code-workspace
 _extras/
 server_config.toml
 Resources/Maps/civ/nomads_classic.yml
+
+# Wiki stuff
+Wiki/book
+Wiki/.idea/
+
+# editor files
+Wiki/.*~
+Wiki/*.swp
+
+# VSCodium files
+Wiki/.vscode/
