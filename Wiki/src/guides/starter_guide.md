@@ -1,6 +1,12 @@
 # Starter Guide
 
-**Note:** This guide primarily focuses on survival in the sandbox [Nomads](./../gamemodes/nomads.md) game mode.
+```admonish note
+This guide primarily focuses on survival in the sandbox [Nomads](./../gamemodes/nomads.md) game mode.
+```
+
+```admonish tip
+You can also open this guide ingame. Press 0 on the numpad, or press the icon on the top-left of the screen.
+```
 
 ## Spawning in
 
@@ -26,7 +32,9 @@
 
 ### Crafting Menu
 
-**Tip:** Press **G** to open the crafting menu.
+```admonish tip
+Press **G** to open the crafting menu.
+```
 
 You will need some basic things to survive. At the very start you will most likely be using **wood, leather, bone, stone, and straw** to make them.
 
@@ -51,7 +59,9 @@ Ores are valuable crafting materials which you mine out of the rock.
 
 To survive, you will need to keep yourself nourished and warm. Pay attention to the alerts on the right side of the screen, they will tell you when you need to eat and drink.
 
-**Warning: Letting either hunger or thirst reach 0% will cause your body to start shutting down, leading to inevitable death!**
+```admonish warning
+Letting either hunger or thirst reach 0% will cause your body to start shutting down, leading to inevitable death!
+```
 
 ### Hunger
 
@@ -60,7 +70,9 @@ The easiest way to get food early on is by killing animals and eating the meat a
 -   Find an animal, preferably one that doesn't have fangs, claws, tusks, or poison. and kill it with any means (even bare fists work). Remember to press the **harm intent** button to enter combat mode!
     <img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Interface/Actions/harm.png" style="width:64px;height:64px;image-rendering: pixelated;"> <img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Interface/Actions/harmOff.png" style="width:64px;height:64px;image-rendering: pixelated;">
 
-**Tip:** For now, stay away from bears, alligators, wolves, snakes, and mammoths. They will fight back and very probably kill you. Wait until you have proper equipment or a hunting party with you.
+```admonish danger
+For now, stay away from bears, alligators, wolves, snakes, and mammoths. They will fight back and very probably kill you. Wait until you have proper equipment or a hunting party with you.
+```
 
 -   Use your knife (flint axe works too) on the dead animal with **Harm intent** to butcher it.
 -   **Raw meat** causes **food poisoning**! You'll want to **cook** it first, but if you're starving, food poisoning is the least of your worries.
@@ -92,7 +104,9 @@ you'll never go thirsty.
 
 ## Temperature
 
-**Tip:** Keep an eye out for the temperature alert! If it is flashing blue with a white snowflake, you are freezing! If it is red and there is sun instead, you are melting from the heat!
+```admonish tip
+Keep an eye out for the temperature alert! If it is flashing blue with a white snowflake, you are freezing! If it is red and there is sun instead, you are melting from the heat!
+```
 
 Winter seasons can bring an icy chill that can seriously hurt and slow you down, or even kill you. Blizzards are especially deadly, and just wearing a fur coat will not cut it, so make sure you have a shelter ready before it is too late.
 
@@ -118,20 +132,24 @@ Any roofed area is considered a shelter.
 -   **Caves**: There's a reason that stone-age men were called cavemen. Look for entrances in rocks. If it has a roof, it will be darker inside. That means it will keep snow, cold, blazing sun and rain out. The easiest way of surviving inclement weather. <sub>Make sure that no bears live in the cave, though...</sub>
 -   **Building a Roof**: Target your inner Bob the Builder and build your own roof.
 
-    -   Build **walls** to prop the ceiling up. Craft floor tiles and place them to automatically build a roof overhead.
+-   Build **walls** to prop the ceiling up. Craft floor tiles and place them to automatically build a roof overhead.
 
-    -   You can also build walls with **dirt** or **snow** by using the **shovel** directly on the ground.
+-   You can also build walls with **dirt** or **snow** by using the **shovel** directly on the ground.
 
 ## Fire
 
-<img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Objects/kitchen.rsi/fireplace_on.png" style="width:64px;height:64px;image-rendering: pixelated;">Crackling fires will keep you warm even without a coat. Both campfires and braziers are refueled by adding **wood**, **coal** and **charcoal**. The brazier could also be refueled with **paper- and cloth-based items**.
+<img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Objects/kitchen.rsi/fireplace_on.png" style="width:64px;height:64px;image-rendering: pixelated;">
+
+Crackling fires will keep you warm even without a coat. Both campfires and braziers are refueled by adding **wood**, **coal** and **charcoal**. The brazier could also be refueled with **paper- and cloth-based items**.
 
 -   A **campfire** warms you when you are right next to it, or within 2 tile.
 -   A **brazier** (made with **stone**) provides more heat and warms you within 3 tiles.
 
 ## Dangerous animals
 
-**Warning: The world is teeming with wildlife. Most of them are pretty tame and easy prey, but steer clear of the big game unless you're a skilled hunter, otherwise you'll become minced meat yourself!**
+```admonish danger
+The world is teeming with wildlife. Most of them are pretty tame and easy prey, but steer clear of the big game unless you're a skilled hunter, otherwise you'll become minced meat yourself!
+```
 
 You want to avoid these, unless you're robust or need some pelts:
 
@@ -143,6 +161,7 @@ You want to avoid these, unless you're robust or need some pelts:
 
 ![cave den](https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Objects/animal_spawner.rsi/cave_den2.png)
 ![cave den](https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Objects/animal_spawner.rsi/cave_den-foliage.png)
+
 Also keep an eye for animal dens. Dangerous animals will spawn here!
 
 ## Night time
@@ -162,6 +181,10 @@ You'll need a light source to see in the night and in dark indoor areas. The bas
 In the Stone age, most of the medicine you will find is restricted to bandages and medicinal herbs.
 
 ![leather bandage](https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Objects/surgery.rsi/leatherbandage.png)![cloth bandage](https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Objects/surgery.rsi/bint.png) You can craft bandages from **cloth** or **leather**. They will help you stop bleeding.
+
+```admonish tip
+You should carry bandages with you at all times. Theres nothing worse than bleeding to death when trying to return to your house after a successfull hunt.
+```
 
 You can find medicinal herbs growing wild around the map. If you harvest them, you will also get some seeds so you can plant them yourself - see the [guide to farming](guide_to_farming.md).
 
