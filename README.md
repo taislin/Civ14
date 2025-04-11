@@ -26,8 +26,10 @@ We are happy to accept contributions from anybody. Get in Discord if you want to
 
 ## License
 
-All code for the content repository is licensed under [MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT).
+All code for the content repository is licensed under [MIT](LICENSE.TXT). This includes both the original SS14 content forked from their [official repository](https://github.com/space-wizards/space-station-14), included in this [squashed commit](https://github.com/Civ13/Civ14/commit/c1bd8faf8e9bf856c6cc0d7f0b2baf0ea6769326), and the code contributed to this repository after that.
 
-Most assets are licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless stated otherwise. Assets have their license and the copyright in the metadata file. [Example](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
+Most assets are licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless stated otherwise. Assets have their license and the copyright in the metadata file. [Example](Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
 Note that some assets are licensed under the non-commercial [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) or similar non-commercial licenses and will need to be removed if you wish to use this project commercially.
+
+Assets ported over from Civ13 are licenced under [GNU Affero General Public License v3.0 (AGPLv3)](https://opensource.org/license/agpl-v3). Check the `meta.json` files or the `attributions.txt` files accompaniying them.
