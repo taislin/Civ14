@@ -52,7 +52,7 @@ Each map has either a single biome or several different ones.
 
 There are seasons of the year, effects of which are different in every biome. Some biomes have four seasons, while others have only two.
 
-On large maps with multiple biomes each biome has its own list of plants that could be grown there. Many plants also grow only in certain seasons. See the **[Guide to Farming](guide_to_farming.md)**.
+On large maps with multiple biomes each biome has its own list of plants that could be grown there. Many plants also grow only in certain seasons. See the **[Guide to Farming](./../guides/guide_to_farming.md)**.
 
 To determine the biome you are in, read the descriptions below and look at your surroundings. Looking at the map of **[Pangea](https://civ13.github.io/civ13-wiki/assets/images/map_pangea.png)** that has almost every biome may also help. From top to bottom: Tundra, Taiga (roughly the southern half of the snowed area, before the northern mountains), Temperate, Semi-Arid, Desert, Savanna, Jungle. The only biome missing is Sea.
 

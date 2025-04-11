@@ -27,7 +27,7 @@ git-repository-url = "https://github.com/civ13/civ14"
 edit-url-template = "https://github.com/civ13/civ14/blob/master/Wiki/{path}"
 
 mathjax-support = true
-curly-quotes = true
+smart-punctuation = true
 no-section-label = true
 
 [output.html.print]
@@ -41,5 +41,5 @@ level = 1
 runnable = false # sorry we arent rustpilled :(
 
 [output.linkcheck]
-traverse-parent-directories = false
+traverse-parent-directories = true
 warning-policy = "ignore" # false-positives like hell with absolute links & latex, so.. cant do
