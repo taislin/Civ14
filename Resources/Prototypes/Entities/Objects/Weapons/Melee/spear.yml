@@ -31,7 +31,7 @@
       sprite: Objects/Weapons/Melee/spear.rsi
       layers:
         - state: spear
-        - state: spear1
+        - state: spear
           map: ["enum.SolutionContainerLayers.Fill"]
           visible: false
     - type: MeleeWeapon
