@@ -1,7 +1,7 @@
 {
     "version": 1,
     "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/pull/29929/commits/8c0509a4725602d0be2e9a7b29b556a39fb5cca2, inhands created by EmoGarbage404 (github), modified by HoofedEar",
+    "copyright": "Taken from civ13 at commit https://github.com/Civ13/Civ13/commit/c07b37fbca55b690d80cc2ec0c2c61839cbecf5c",
     "size": {
         "x": 32,
         "y": 32
@@ -17,6 +17,9 @@
         },
         {
             "name": "pickaxe"
+        },
+        {
+            "name": "icon"
         },
         {
             "name": "wielded-inhand-left",
