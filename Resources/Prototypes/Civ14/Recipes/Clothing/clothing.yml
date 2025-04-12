@@ -137,13 +137,13 @@
   graph:
     - node: start
       edges:
-        - to: bonearmor
+        - to: end
           steps:
             - material: Bones
               amount: 8
               doAfter: 15
-    - node: bonearmor
-      entity: civ13_suit_bone_armor
+    - node: end
+      entity: BoneArmor
 
 - type: constructionGraph
   id: Quiver
