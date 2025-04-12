@@ -70,7 +70,7 @@
     - type: Projectile
       damage:
         types:
-          Piercing: 15
+          Piercing: 22
 
 - type: entity
   parent: BaseArrow
@@ -93,7 +93,7 @@
     - type: Projectile
       damage:
         types:
-          Piercing: 12
+          Piercing: 20
 
 - type: entity
   parent: BaseArrow
