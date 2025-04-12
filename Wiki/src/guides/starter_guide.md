@@ -21,11 +21,14 @@ You can also open this guide in-game. Press **0** on the numpad or click the ico
 -   First things first: gather flint to craft a flint axe. It's your ticket to not being completely useless out here!
 
     -   Locate a large rock or boulder and right-click on it. You should see an option to search for flint. If you don't, try another one.
-        ![boulder](./../images/boulder.png)
+
+![boulder](./../images/boulder.png)
+
     -   Click the rock repeatedly with the flint to sharpen it (you will get a message when it is sharpened).
     -   Now go to a tree and right click on it. There should be an option to remove a branch from the tree, if there are any suitable ones available. This will pull a branch from the tree and place it in your hands.
     -   Right-click on the branch and remove the leaves and sharpen it. Then, click the sharpened stick with the flint again to craft a flint axe, which serves as both a tool and a weapon.
-        ![flint axe crafting menu](./../images/flint_axe.png)
+
+![flint axe crafting menu](./../images/flint_axe.png)
 
 ## Crafting Basics
 

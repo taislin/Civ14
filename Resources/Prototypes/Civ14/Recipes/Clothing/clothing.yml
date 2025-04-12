@@ -3,7 +3,7 @@
   id: LeatherLoincloth
   graph: LeatherLoincloth
   startNode: start
-  targetNode: leatherloincloth
+  targetNode: end
   category: construction-category-clothing
   description: A simple leather loincloth.
   icon: { sprite: Civ14/Clothing/exported/uniforms/leatherloincloth1.rsi, state: icon }
@@ -55,7 +55,7 @@
   id: BoneArmor
   graph: BoneArmor
   startNode: start
-  targetNode: bonearmor
+  targetNode: end
   category: construction-category-clothing
   description: A spooky armor, made of assorted bones.
   icon: { sprite: Civ14/Clothing/exported/suits/bonearmor.rsi, state: icon }
@@ -137,13 +137,13 @@
   graph:
     - node: start
       edges:
-        - to: bonearmor
+        - to: end
           steps:
             - material: Bones
-              amount: 4
+              amount: 8
               doAfter: 15
-    - node: bonearmor
-      entity: civ13_suit_bone_armor
+    - node: end
+      entity: ClothingOuterArmorBone
 
 - type: constructionGraph
   id: Quiver

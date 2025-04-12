@@ -22,14 +22,10 @@
         <meta property="og:title" content="{{ title }}"/>
         <meta property="og:description" content="{{ description }}"/>
         <meta property="og:type" content="website"/>
-        <meta property="og:image" content="https://docs.spacestation14.com/favicon.png">
+        <meta property="og:image" content="{{ path_to_root }}favicon.png">
 
-        {{#if favicon_svg}}
-        <link rel="icon" href="{{ path_to_root }}favicon.svg">
-        {{/if}}
-        {{#if favicon_png}}
         <link rel="shortcut icon" href="{{ path_to_root }}favicon.png">
-        {{/if}}
+
         <link rel="stylesheet" href="{{ path_to_root }}css/variables.css">
         <link rel="stylesheet" href="{{ path_to_root }}css/general.css">
         <link rel="stylesheet" href="{{ path_to_root }}css/chrome.css">

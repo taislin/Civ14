@@ -130,7 +130,7 @@
   description: A small round wooden shield.
   components:
     - type: Sprite
-      sprite: Civ14/Objects/Weapons/buckler.rsi
+      sprite: Civ14/Weapons/buckler.rsi
       state: buckler-icon
     - type: Item
       heldPrefix: buckler

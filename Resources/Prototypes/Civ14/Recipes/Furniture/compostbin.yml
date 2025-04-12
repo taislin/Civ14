@@ -18,6 +18,8 @@
     - node: start
       edges:
         - to: end
+          completed:
+            - !type:SnapToGrid
           steps:
             - material: WoodPlank
               amount: 5

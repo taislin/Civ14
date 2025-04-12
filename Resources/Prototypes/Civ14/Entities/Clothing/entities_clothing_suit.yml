@@ -1581,29 +1581,7 @@
       cost: 5
       material: Cloth
       time: 5
-- type: entity
-  name: bone armor
-  parent: ClothingOuterBase
-  id: civ13_suit_bone_armor
-  description: A spooky armor, made of assorted bones.
-  components:
-    - type: Sprite
-      sprite: Civ14/Clothing/exported/suits/bonearmor.rsi
-    - type: Clothing
-      sprite: Civ14/Clothing/exported/suits/bonearmor.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 0.5
-          Slash: 0.5
-          Arrow: 0.85
-    - type: Construction
 
-      graph: civ13_suit_bone_armor
-      node: end
-      cost: 10
-      material: Bones
-      time: 17
 - type: entity
   name: imperial officer armor
   parent: ClothingOuterBase
