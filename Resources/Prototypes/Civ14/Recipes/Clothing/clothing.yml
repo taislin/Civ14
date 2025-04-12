@@ -55,7 +55,7 @@
   id: BoneArmor
   graph: BoneArmor
   startNode: start
-  targetNode: bonearmor
+  targetNode: end
   category: construction-category-clothing
   description: A spooky armor, made of assorted bones.
   icon: { sprite: Civ14/Clothing/exported/suits/bonearmor.rsi, state: icon }
@@ -143,7 +143,7 @@
               amount: 8
               doAfter: 15
     - node: end
-      entity: BoneArmor
+      entity: ClothingOuterArmorBone
 
 - type: constructionGraph
   id: Quiver
