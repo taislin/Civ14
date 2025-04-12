@@ -140,7 +140,7 @@
         - to: bonearmor
           steps:
             - material: Bones
-              amount: 4
+              amount: 8
               doAfter: 15
     - node: bonearmor
       entity: civ13_suit_bone_armor
