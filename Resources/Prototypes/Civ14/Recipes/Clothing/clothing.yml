@@ -3,7 +3,7 @@
   id: LeatherLoincloth
   graph: LeatherLoincloth
   startNode: start
-  targetNode: leatherloincloth
+  targetNode: end
   category: construction-category-clothing
   description: A simple leather loincloth.
   icon: { sprite: Civ14/Clothing/exported/uniforms/leatherloincloth1.rsi, state: icon }

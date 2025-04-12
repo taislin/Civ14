@@ -1582,11 +1582,6 @@
       material: Cloth
       time: 5
 
-      graph: civ13_suit_bone_armor
-      node: end
-      cost: 10
-      material: Bones
-      time: 17
 - type: entity
   name: imperial officer armor
   parent: ClothingOuterBase
