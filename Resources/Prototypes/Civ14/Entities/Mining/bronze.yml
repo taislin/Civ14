@@ -9,7 +9,7 @@
 - type: entity
   parent: MaterialBase
   id: MaterialBronze
-  name: bronze
+  name: bronze ingot
   suffix: Full
   components:
     - type: Material

@@ -28,7 +28,7 @@
 - type: entity
   parent: IngotBase
   id: IngotGold
-  name: gold bar
+  name: gold ingot
   suffix: Full
   components:
     - type: Material
@@ -62,7 +62,7 @@
 - type: entity
   parent: IngotGold
   id: IngotGold1
-  name: gold bar
+  name: gold ingot
   suffix: Single
   components:
     - type: Sprite
