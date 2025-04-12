@@ -1,11 +1,11 @@
 # Starter Guide
 
-```admonish note
+```admonish info
 This guide primarily focuses on survival in the sandbox [Nomads](./../gamemodes/nomads.md) game mode.
 ```
 
 ```admonish tip
-You can also open this guide ingame. Press 0 on the numpad, or press the icon on the top-left of the screen.
+You can also open this guide in-game. Press **0** on the numpad or click the icon in the top-left corner of the screen.
 ```
 
 ## Spawning in
@@ -18,14 +18,13 @@ You can also open this guide ingame. Press 0 on the numpad, or press the icon on
 
 -   Your **hunger** and **thirst** levels will start at approximately 50%. You'll receive alerts on the right side of the screen (below your health and stamina indicators) when you're hungry or thirsty. Pay close attention to these alerts.
 
--   Your first priority is to gather flint to craft a flint axe.
+-   First things first: gather flint to craft a flint axe. It's your ticket to not being completely useless out here!
 
-    -   Locate a large rock or boulder and right-click on it. You should see an option to search for flint.
+    -   Locate a large rock or boulder and right-click on it. You should see an option to search for flint. If you don't, try another one.
         ![boulder](./../images/boulder.png)
     -   Click the rock repeatedly with the flint to sharpen it (you will get a message when it is sharpened).
-    -   Now go to a tree and right click on it. There should be an option to remove a branch from the tree, if there are any suitable ones available. This will pull a branch from the tree and place it on the ground.
-    -   Click the branch with an empty hand to clear the leaves.
-    -   Use the sharpened flint on the stick to sharpen the stick. Then, click the sharpened stick with the flint again to craft a flint axe, which serves as both a tool and a weapon.
+    -   Now go to a tree and right click on it. There should be an option to remove a branch from the tree, if there are any suitable ones available. This will pull a branch from the tree and place it in your hands.
+    -   Right-click on the branch and remove the leaves and sharpen it. Then, click the sharpened stick with the flint again to craft a flint axe, which serves as both a tool and a weapon.
         ![flint axe crafting menu](./../images/flint_axe.png)
 
 ## Crafting Basics
@@ -38,13 +37,13 @@ Press **G** to open the crafting menu.
 
 You will need some basic things to survive. At the very start you will most likely be using **wood, leather, bone, stone, and straw** to make them.
 
--   Hit a tree with your flint hatchet until it breaks. You will then find some **wood** on the floor.
+-   Hit a tree with your flint axe until it breaks. You will then find some **wood** on the floor.
 
 -   Hunt and butcher some animals to get **leather** and **bone**.
 
 -   Use your knife on a grass tile to gather some **straw**.
 
--   Use your pickaxe on a rock tile to gather **stone** (see below).
+-   Use your pickaxe on a rock tile to gather **stone** and other ores (see below).
 
 ### Mining 101
 
@@ -53,14 +52,14 @@ Ores are valuable crafting materials which you mine out of the rock.
 -   You'll need **wood** and **bone** for this. Go gather them (bones are obtained by butchering animals - click the carcass with something sharp, like a flint axe or a knife),
 -   Make a **bone pickaxe**.
 -   Find a **rock** tile.
--   Right click on it while holding the **pickaxe** on your active hand.
+-   Wield the axe (press **Z**). Go on **Combat Mode** and click on it while holding the **pickaxe** on your active hand.
 
 ## Food and Water
 
 To survive, you will need to keep yourself nourished and warm. Pay attention to the alerts on the right side of the screen, they will tell you when you need to eat and drink.
 
 ```admonish warning
-Letting either hunger or thirst reach 0% will cause your body to start shutting down, leading to inevitable death!
+Letting either hunger or thirst hit 0% will turn you into a caveman cautionary tale. Your body will shut down, and death will come knocking.
 ```
 
 ### Hunger
@@ -89,7 +88,6 @@ The easiest way to quench your thirst early on is by drinking water or milk.
 You can get water from **puddles**, any **water tiles (except saltwater - do not drink nor boil it!)**, or **wells**.
 
 -   To drink, you need to make a **mug** from **wood** or **drinking glass** from **glass**.
--   **Wells** have disease-free freshwater (**however, if there are some... excrements within 4 tiles of a well, the water becomes contaminated and unsafe to drink!)**. You can build them over a **puddle** by using with **stone**... if your faction has the research levels required.
 
 #### Milk
 
@@ -105,7 +103,7 @@ you'll never go thirsty.
 ## Temperature
 
 ```admonish tip
-Keep an eye out for the temperature alert! If it is flashing blue with a white snowflake, you are freezing! If it is red and there is sun instead, you are melting from the heat!
+Watch the temperature alert! Flashing blue with a snowflake? You're freezing! Red with a sun icon? You're roasting! Either way, you're in for a bad time if you ignore it.
 ```
 
 Winter seasons can bring an icy chill that can seriously hurt and slow you down, or even kill you. Blizzards are especially deadly, and just wearing a fur coat will not cut it, so make sure you have a shelter ready before it is too late.
@@ -115,11 +113,11 @@ Southern climates could be merciless in their own way, so be careful that you do
 ### Fur Clothing
 
 <img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Clothing/exported/suits/prehistoric_fur2.rsi/icon.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Clothing/exported/suits/fur_jacket1.rsi/icon.png" style="width:64px;height:64px;image-rendering: pixelated;">
-Fur clothing can keep you warm in the winter, but it will not save you if you are caught in a blizzard. You can make fur clothing by skinning large furry animals like **bears** and **wolves**. <sub>Yes, you can finally skin furries with no repercussions.</sub>
+Fur clothing can keep you warm in the winter, but it will not save you if you are caught in a blizzard. You can make fur clothing by skinning large furry animals like **bears** and **wolves**.
 
--   Kill one of the following animals: **bear, wolf, bison, monkey, fox, sheep**.
--   Bucher the animal by using the **knife** on **Harm Intent**.
--   Collect enough pelts and craft **fur coat, boots, headcover and gloves** (you might need to hunt several animals for the whole set).
+-   Hunt down one or more of the following: **bear, wolf, bison, monkey, fox, sheep**.
+-   Bucher the animal by using the **knife** on it.
+-   Collect enough pelts and craft **fur coat, boots and gloves** (you might need to hunt several animals for the whole set).
 
     -   <img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Materials/materials.rsi/sheet-brownbearpelt.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Materials/materials.rsi/sheet-wolfpelt.png" style="width:64px;height:64px;image-rendering: pixelated;">
 
@@ -129,12 +127,13 @@ Shelter can save you from even the toughest of conditions.
 
 Any roofed area is considered a shelter.
 
--   **Caves**: There's a reason that stone-age men were called cavemen. Look for entrances in rocks. If it has a roof, it will be darker inside. That means it will keep snow, cold, blazing sun and rain out. The easiest way of surviving inclement weather. <sub>Make sure that no bears live in the cave, though...</sub>
+-   **Caves**: There's a reason Stone Age folks were called cavemen. Look for rock entrances. If it's got a roof, it'll be darker inside, keeping out snow, cold, sun, and rain. It's the easiest way to survive bad weather. <sub>Just make sure no bears are already renting the place...</sub>
+
 -   **Building a Roof**: Target your inner Bob the Builder and build your own roof.
 
 -   Build **walls** to prop the ceiling up. Craft floor tiles and place them to automatically build a roof overhead.
 
--   You can also build walls with **dirt** or **snow** by using the **shovel** directly on the ground.
+-   You can also build walls with **dirt** or **snow** by using the **shovel** directly on dirt and snow tiles respectively to gather them.
 
 ## Fire
 
@@ -190,12 +189,12 @@ You can find medicinal herbs growing wild around the map. If you harvest them, y
 
 <img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Objects/Farming/elderflower.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Objects/Farming/elderflower.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Elderflower** has a long history in European folk medicine for treating colds and sinus issues. It reduces asphyxiation by clearing airways and boosting oxygen intake.
 
-<img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Objects/Farming/yarrow.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Objects/Farming/yarrow.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Yarrow** has been used since ancient times as a hemostatic (blood-clotting) agent. It’s known for its astringent properties that help staunch bleeding.
+<img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Objects/Farming/yarrow.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Civ14/Objects/Farming/yarrow.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Yarrow** has been used since ancient times as a hemostatic (blood-clotting) agent. It's known for its astringent properties that help staunch bleeding.
 
 <img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Specific/Hydroponics/spacemans_trumpet.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Specific/Hydroponics/spacemans_trumpet.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Comfrey** has been used historically to heal bruises, sprains, and fractures due to its anti-inflammatory and tissue-repair properties. Heals brute damage.
 
 <img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Specific/Hydroponics/galaxythistle.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Specific/Hydroponics/galaxythistle.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Milk Thistle** has long been used as a liver tonic, with silymarin compounds believed to detoxify and protect against poisons.
 
-<img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Specific/Hydroponics/poppy.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Specific/Hydroponics/poppy.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Poppy** is the source of opium and morphine, known for sedative and pain-relieving effects, but it can also stabilize shock in small doses by calming the nervous system. Historically, it’s been used for pain and trauma management.
+<img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Specific/Hydroponics/poppy.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Specific/Hydroponics/poppy.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Poppy** is the source of opium and morphine, known for sedative and pain-relieving effects, but it can also stabilize shock in small doses by calming the nervous system. Historically, it's been used for pain and trauma management.
 
-<img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Specific/Hydroponics/aloe.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Specific/Hydroponics/aloe.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Aloe vera**’s gel is a well-documented remedy for burns, soothing inflammation and promoting skin healing.
+<img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Specific/Hydroponics/aloe.rsi/harvest.png" style="width:64px;height:64px;image-rendering: pixelated;"><img src="https://raw.githubusercontent.com/Civ13/Civ14/refs/heads/master/Resources/Textures/Objects/Specific/Hydroponics/aloe.rsi/produce.png" style="width:64px;height:64px;image-rendering: pixelated;"> **Aloe vera**'s gel is a well-documented remedy for burns, soothing inflammation and promoting skin healing.

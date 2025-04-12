@@ -9,14 +9,13 @@
 
 -   Your [bold]hunger[/bold] and [bold]thirst[/bold] levels will start at approximately 50%. You'll receive alerts on the right side of the screen (below your health and stamina indicators) when you're hungry or thirsty. Pay close attention to these alerts.
 
--   Your first priority is to gather flint to craft a flint axe.
+-   First things first: gather flint to craft a flint axe. It's your ticket to not being completely useless out here!
 
-    -   Locate a large rock or boulder and right-click on it. You should see an option to search for flint.
+    -   Locate a large rock or boulder and right-click on it. You should see an option to search for flint. If you don't, try another one.
         <GuideEntityEmbed Entity="FloraRockSolid" />
     -   Click the rock repeatedly with the flint to sharpen it (you will get a message when it is sharpened).
-    -   Now go to a tree and right click on it. There should be an option to remove a branch from the tree, if there are any suitable ones available. This will pull a branch from the tree and place it on the ground.
-    -   Click the branch with an empty hand to clear the leaves.
-    -   Use the sharpened flint on the stick to sharpen the stick. Then, click the sharpened stick with the flint again to craft a flint axe, which serves as both a tool and a weapon.
+    -   Now go to a tree and right click on it. There should be an option to remove a branch from the tree, if there are any suitable ones available. This will pull a branch from the tree and place it in your hands.
+    -   Right-click on the branch and remove the leaves and sharpen it. Then, click the sharpened stick with the flint again to craft a flint axe, which serves as both a tool and a weapon.
         <GuideEntityEmbed Entity="FlintAxe" />
 
 ## Crafting Basics
@@ -27,13 +26,13 @@
 
 You will need some basic things to survive. At the very start you will most likely be using [bold]wood, leather, bone, stone, and straw[/bold] to make them.
 
--   Hit a tree with your flint hatchet until it breaks. You will then find some [bold]wood[/bold] on the floor.
+-   Hit a tree with your flint axe until it breaks. You will then find some [bold]wood[/bold] on the floor.
 
 -   Hunt and butcher some animals to get [bold]leather[/bold] and [bold]bone[/bold].
 
 -   Use your knife on a grass tile to gather some [bold]straw[/bold].
 
--   Use your pickaxe on a rock tile to gather [bold]stone[/bold] (see below).
+-   Use your pickaxe on a rock tile to gather [bold]stone[/bold] and other ores (see below).
 
 ### Mining 101
 
@@ -48,7 +47,7 @@ Ores are valuable crafting materials which you mine out of the rock.
 
 To survive, you will need to keep yourself nourished and warm. Pay attention to the alerts on the right side of the screen, they will tell you when you need to eat and drink.
 
-[bold]Warning: Letting either hunger or thirst reach 0% will cause your body to start shutting down, leading to inevitable death![/bold]
+[bold]Warning: Letting either hunger or thirst hit 0% will turn you into a caveman cautionary tale. Your body will shut down, and death will come knocking.[/bold]
 
 ### Hunger
 
@@ -73,7 +72,6 @@ The easiest way to quench your thirst early on is by drinking water or milk.
 You can get water from [bold]puddles[/bold], any [bold]water tiles (except saltwater - do not drink nor boil it!)[/bold], or [bold]wells[/bold].
 
 -   To drink, you need to make a [bold]mug[/bold] from [bold]wood[/bold] or [bold]drinking glass[/bold] from [bold]glass[/bold].
--   [bold]Wells[/bold] have disease-free freshwater ([bold]however, if there are some... excrements within 4 tiles of a well, the water becomes contaminated and unsafe to drink!)[/bold]. You can build them over a [bold]puddle[/bold] by using with [bold]stone[/bold]... if your faction has the research levels required.
 
 #### Milk
 
@@ -88,7 +86,7 @@ you'll never go thirsty.
 
 ## Temperature
 
-[bold]Tip:[/bold] Keep an eye out for the temperature alert! If it is flashing blue with a white snowflake, you are freezing! If it is red and there is sun instead, you are melting from the heat!
+[bold]Tip:[/bold] Watch the temperature alert! Flashing blue with a snowflake? You're freezing! Red with a sun icon? You're roasting! Either way, you're in for a bad time if you ignore it.
 
 Winter seasons can bring an icy chill that can seriously hurt and slow you down, or even kill you. Blizzards are especially deadly, and just wearing a fur coat will not cut it, so make sure you have a shelter ready before it is too late.
 
@@ -100,9 +98,9 @@ Southern climates could be merciless in their own way, so be careful that you do
 <GuideEntityEmbed Entity="civ13_suit_fur_coat" />
 Fur clothing can keep you warm in the winter, but it will not save you if you are caught in a blizzard. You can make fur clothing by skinning large furry animals like [bold]bears[/bold] and [bold]wolves[/bold].
 
--   Kill one of the following animals: [bold]bear, wolf, bison, monkey, fox, sheep[/bold].
--   Bucher the animal by using the [bold]knife[/bold] on [bold]Harm Intent[/bold].
--   Collect enough pelts and craft [bold]fur coat, boots, headcover and gloves[/bold] (you might need to hunt several animals for the whole set).
+-   Hunt down one or more of the following: [bold]bear, wolf, bison, monkey, fox, sheep[/bold].
+-   Bucher the animal by using the [bold]knife[/bold] on it.
+-   Collect enough pelts and craft a [bold]fur coat, boots and gloves[/bold] (you might need to hunt several animals for the whole set).
 
 <GuideEntityEmbed Entity="MaterialPeltGreyWolf" />
 <GuideEntityEmbed Entity="MaterialPeltBrownBear" />
@@ -113,12 +111,12 @@ Shelter can save you from even the toughest of conditions.
 
 Any roofed area is considered a shelter.
 
--   [bold]Caves[/bold]: There's a reason that stone-age men were called cavemen. Look for entrances in rocks. If it has a roof, it will be darker inside. That means it will keep snow, cold, blazing sun and rain out. The easiest way of surviving inclement weather.
+-   [bold]Caves[/bold]: There's a reason Stone Age folks were called cavemen. Look for rock entrances. If it's got a roof, it'll be darker inside, keeping out snow, cold, sun, and rain. It's the easiest way to survive bad weather.
 -   [bold]Building a Roof[/bold]: Target your inner Bob the Builder and build your own roof.
 
     -   Build [bold]walls[/bold] to prop the ceiling up. Craft floor tiles and place them to automatically build a roof overhead.
 
-    -   You can also build walls with [bold]dirt[/bold] or [bold]snow[/bold] by using the [bold]shovel[/bold] directly on the ground.
+    -   You can also build walls with [bold]dirt[/bold] or [bold]snow[/bold] by using the [bold]shovel[/bold] directly on dirt and snow tiles respectively to gather them.
 
 ## Fire
 
