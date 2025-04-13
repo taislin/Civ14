@@ -91,39 +91,6 @@
 
 - type: entity
   parent: OreBase
-  id: SteelOre
-  name: iron ore
-  suffix: Full
-  components:
-    - type: Stack
-      stackType: SteelOre
-    - type: Sprite
-      state: iron
-    - type: Material
-    - type: PhysicalComposition
-      materialComposition:
-        RawIron: 100
-    - type: Extractable
-      grindableSolutionName: ironore
-    - type: SolutionContainerManager
-      solutions:
-        ironore:
-          reagents:
-            - ReagentId: Iron
-              Quantity: 10
-    - type: Item
-      heldPrefix: iron
-
-- type: entity
-  id: SteelOre1
-  parent: SteelOre
-  suffix: Single
-  components:
-    - type: Stack
-      count: 1
-
-- type: entity
-  parent: OreBase
   id: PlasmaOre
   name: plasma ore
   suffix: Full

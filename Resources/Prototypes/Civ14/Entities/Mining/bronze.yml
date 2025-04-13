@@ -1,6 +1,6 @@
 - type: material
   id: Bronze
-  stackEntity: MaterialBronze1
+  stackEntity: IngotBronze1
   name: materials-bronze
   icon: { sprite: Objects/Materials/ingots.rsi, state: sheet-bronze }
   color: "#cd7f32"
@@ -8,7 +8,7 @@
 
 - type: entity
   parent: MaterialBase
-  id: MaterialBronze
+  id: IngotBronze
   name: bronze ingot
   suffix: Full
   components:
@@ -43,8 +43,8 @@
     - type: Appearance
 
 - type: entity
-  parent: MaterialBronze
-  id: MaterialBronze1
+  parent: IngotBronze
+  id: IngotBronze1
   suffix: Single
   components:
     - type: Sprite
@@ -57,5 +57,5 @@
   id: Bronze
   name: bronze
   icon: { sprite: /Textures/Objects/Materials/ingots.rsi, state: sheet-bronze }
-  spawn: MaterialBronze1
+  spawn: IngotBronze1
   maxCount: 10

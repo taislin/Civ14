@@ -1,6 +1,6 @@
 - type: material
   id: RawIron
-  stackEntity: SteelOre1
+  stackEntity: IronOre1
   name: materials-raw-iron
   unit: materials-unit-chunk
   icon: { sprite: Objects/Materials/ore.rsi, state: iron }

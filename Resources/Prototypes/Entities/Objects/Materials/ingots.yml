@@ -73,7 +73,7 @@
 - type: entity
   parent: IngotBase
   id: IngotSilver
-  name: silver bar
+  name: silver ingot
   suffix: Full
   components:
     - type: Material
@@ -107,7 +107,7 @@
 - type: entity
   parent: IngotSilver
   id: IngotSilver1
-  name: silver bar
+  name: silver ingot
   suffix: Single
   components:
     - type: Sprite

@@ -33,12 +33,6 @@
       runningState: stone_kiln_on
       staticPacks:
         - StoneKiln
-      staticRecipes:
-        - IngotCopper
-        - IngotTin
-        - IngotSilver
-        - IngotGold
-        - IngotBronze
 
 - type: latheRecipePack
   id: StoneKiln
@@ -67,7 +61,7 @@
 
 - type: latheRecipe
   id: IngotBronze
-  result: MaterialBronze1
+  result: IngotBronze1
   icon: { sprite: "/Textures/Objects/Materials/ingots.rsi", state: sheet-bronze }
   completetime: 2
   materials:
@@ -76,7 +70,7 @@
 
 - type: latheRecipe
   id: IngotTin
-  result: MaterialTin1
+  result: IngotTin1
   icon: { sprite: "/Textures/Objects/Materials/ingots.rsi", state: iron }
   completetime: 2
   materials:
@@ -84,7 +78,7 @@
 
 - type: latheRecipe
   id: IngotCopper
-  result: MaterialCopper1
+  result: IngotCopper1
   icon: { sprite: "/Textures/Objects/Materials/ingots.rsi", state: copper }
   completetime: 2
   materials:
@@ -126,8 +120,6 @@
       runningState: bloomery_on
       staticPacks:
         - Bloomery
-      staticRecipes:
-        - IngotIron
 
 - type: latheRecipePack
   id: Bloomery
