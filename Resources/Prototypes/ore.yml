@@ -76,10 +76,6 @@
   oreEntity: MobSpawnCrabQuartz
 
 - type: ore
-  id: OreIronCrab
-  oreEntity: MobSpawnCrabIron
-
-- type: ore
   id: OreCoalCrab
   oreEntity: MobSpawnCrabCoal
 
@@ -104,7 +100,7 @@
 - type: weightedRandomOre
   id: RandomOreDistributionStandard
   weights:
-    OreSteel: 10
+    OreIron: 10
     OreCoal: 10
     OreSpaceQuartz: 8
     OreGold: 2

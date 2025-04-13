@@ -792,7 +792,6 @@
     - type: RandomSpawner
       prototypes:
         - MobSpawnCrabUranium
-        - MobSpawnCrabIron
         - MobSpawnCrabQuartz
         - MobSpawnCrabSilver
 

@@ -349,7 +349,6 @@
             maxRange: 3
           spawns:
             - MobSpawnCrabSilver
-            - MobSpawnCrabIron
             - MobSpawnCrabQuartz
 
 - type: entity
