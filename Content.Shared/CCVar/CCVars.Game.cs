@@ -18,10 +18,10 @@ public sealed partial class CCVars
         GameLobbyEnabled = CVarDef.Create("game.lobbyenabled", true, CVar.ARCHIVE);
 
     /// <summary>
-    ///     Controls the duration of the lobby timer in seconds. Defaults to 2 minutes and 30 seconds.
+    ///     Controls the duration of the lobby timer in seconds. Defaults to 2 minutes.
     /// </summary>
     public static readonly CVarDef<int>
-        GameLobbyDuration = CVarDef.Create("game.lobbyduration", 150, CVar.ARCHIVE);
+        GameLobbyDuration = CVarDef.Create("game.lobbyduration", 120, CVar.ARCHIVE);
 
     /// <summary>
     ///     Controls if players can latejoin at all.
@@ -33,7 +33,7 @@ public sealed partial class CCVars
     ///     Controls the default game preset.
     /// </summary>
     public static readonly CVarDef<string>
-        GameLobbyDefaultPreset = CVarDef.Create("game.defaultpreset", "extended", CVar.ARCHIVE);
+        GameLobbyDefaultPreset = CVarDef.Create("game.defaultpreset", "nomads", CVar.ARCHIVE);
 
     /// <summary>
     ///     Controls if the game can force a different preset if the current preset's criteria are not met.
@@ -45,7 +45,7 @@ public sealed partial class CCVars
     ///     The preset for the game to fall back to if the selected preset could not be used, and fallback is enabled.
     /// </summary>
     public static readonly CVarDef<string>
-        GameLobbyFallbackPreset = CVarDef.Create("game.fallbackpreset", "Traitor,Extended", CVar.ARCHIVE);
+        GameLobbyFallbackPreset = CVarDef.Create("game.fallbackpreset", "Nomads", CVar.ARCHIVE);
 
     /// <summary>
     ///     Controls if people can win the game in Suspicion or Deathmatch.
