@@ -12,7 +12,7 @@
   unit: materials-unit-bar
   icon: { sprite: Objects/Materials/ingots.rsi, state: gold }
   color: "#FFD700"
-  price: 0.75 # $75 for 1 unit
+  price: 2 # $200 for 1 unit
 
 - type: material
   id: Silver
@@ -21,7 +21,7 @@
   unit: materials-unit-bar
   icon: { sprite: Objects/Materials/ingots.rsi, state: silver }
   color: "#C0C0C0"
-  price: 0.60 # $60 for 1 unit
+  price: 1 # $100 for 1 unit
 
 - type: material
   id: Brass
