@@ -14,6 +14,7 @@
     - type: Tag
       tags:
         - Ingot
+        - RawMaterial
     - type: Damageable
       damageContainer: Inorganic
       damageModifierSet: Metallic

@@ -290,15 +290,6 @@
           map: ["enum.MiningScannerVisualLayers.Overlay"]
 
 - type: entity
-  id: AsteroidRockTinCrab
-  parent: AsteroidRockTin
-  suffix: Iron Crab
-  components:
-    - type: OreVein
-      oreChance: 1.0
-      currentOre: OreIronCrab
-
-- type: entity
   id: AsteroidRockUranium
   parent: AsteroidRock
   description: An ore vein rich with uranium.

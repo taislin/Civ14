@@ -47,7 +47,7 @@
   price: 0.05
 
 - type: entity
-  parent: MaterialBase
+  parent: IngotBase
   id: IngotTin
   name: tin ingot
   suffix: Full

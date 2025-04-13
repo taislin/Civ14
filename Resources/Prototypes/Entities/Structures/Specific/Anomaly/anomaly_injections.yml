@@ -312,7 +312,6 @@
             - WallSpawnAsteroidSilver
             - WallSpawnAsteroidSilverCrab
             - WallSpawnAsteroidIron
-            - WallSpawnAsteroidIronCrab
             - WallSpawnAsteroidQuartz
             - WallSpawnAsteroidQuartzCrab
         - settings:
@@ -339,7 +338,6 @@
             - WallSpawnAsteroidSilver
             - WallSpawnAsteroidSilverCrab
             - WallSpawnAsteroidIron
-            - WallSpawnAsteroidIronCrab
             - WallSpawnAsteroidQuartz
             - WallSpawnAsteroidQuartzCrab
         - settings:

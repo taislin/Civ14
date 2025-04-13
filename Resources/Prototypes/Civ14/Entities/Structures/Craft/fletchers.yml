@@ -10,8 +10,6 @@
       sprite: Civ14/Objects/structures.rsi
       snapCardinals: true
       state: fletchersbench
-    - type: Machine
-      board: UniformPrinterMachineCircuitboard
     - type: ApcPowerReceiver
       needsPower: false
       powerLoad: 0
@@ -32,7 +30,7 @@
 
 - type: latheCategory
   id: Fletcher
-  name: lathe-category-fletcher
+  name: Fletcher
 
 - type: latheRecipePack
   id: FletchersPack
