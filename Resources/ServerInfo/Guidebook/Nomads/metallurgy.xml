@@ -22,7 +22,7 @@ The basic ore proccessor is the [bold]kiln[/bold]. This will enable you to produ
 
 ## Bloomery
 
-
+<GuideEntityEmbed Entity="Bloomery" />
 
 To produce [bold]Iron[/bold], you will need a [bold]bloomery[/bold].
 

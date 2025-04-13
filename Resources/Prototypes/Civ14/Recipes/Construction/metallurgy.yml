@@ -29,3 +29,35 @@
   canBuildInImpassable: false
   conditions:
     - !type:TileNotBlocked
+
+- type: constructionGraph
+  id: Bloomery
+  start: start
+  graph:
+    - node: start
+      edges:
+        - to: end
+          steps:
+            - material: Stone
+              amount: 25
+              doAfter: 15
+
+    - node: end
+      entity: Bloomery
+
+- type: construction
+  name: bloomery
+  id: Bloomery
+  graph: Bloomery
+  startNode: start
+  targetNode: end
+  category: construction-category-production
+  description: Used for smelting iron.
+  icon: { sprite: Civ14/Objects/metallurgy.rsi, state: bloomery }
+  objectType: Structure
+  agemin: 1
+  agemax: 8
+  placementMode: SnapgridCenter
+  canBuildInImpassable: false
+  conditions:
+    - !type:TileNotBlocked

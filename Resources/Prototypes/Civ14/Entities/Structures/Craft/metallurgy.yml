@@ -89,3 +89,55 @@
   completetime: 2
   materials:
     RawCopper: 100
+
+# bloomery
+- type: entity
+  id: Bloomery
+  name: bloomery
+  parent: OreProcessor
+  description: Used for smelting iron ore.
+  components:
+    - type: Sprite
+      sprite: Civ14/Objects/metallurgy.rsi
+      layers:
+        - state: bloomery_on
+          shader: unshaded
+          map: ["enum.LatheVisualLayers.IsRunning"]
+        - state: bloomery
+          map: ["enum.PowerDeviceVisualLayers.Powered"]
+        - state: bloomery
+          map: ["enum.MaterialStorageVisualLayers.Inserting"]
+        - state: bloomery
+          map: ["enum.WiresVisualLayers.MaintenancePanel"]
+    - type: Destructible
+      thresholds:
+        - trigger: !type:DamageTrigger
+            damage: 200
+          behaviors:
+            - !type:PlaySoundBehavior
+              sound:
+                collection: StoneBreak
+            - !type:DoActsBehavior
+              acts: ["Destruction"]
+    - type: ApcPowerReceiver
+      needsPower: false
+    - type: Lathe
+      idleState: bloomery
+      runningState: bloomery_on
+      staticPacks:
+        - Bloomery
+      staticRecipes:
+        - IngotIron
+
+- type: latheRecipePack
+  id: Bloomery
+  recipes:
+    - IngotIron
+
+- type: latheRecipe
+  id: IngotIron
+  result: IngotIron1
+  icon: { sprite: "/Textures/Objects/Materials/ingots.rsi", state: sheet-iron }
+  completetime: 2
+  materials:
+    RawIron: 100
