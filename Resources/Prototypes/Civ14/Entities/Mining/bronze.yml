@@ -60,11 +60,3 @@
   icon: { sprite: /Textures/Objects/Materials/ingots.rsi, state: sheet-bronze }
   spawn: IngotBronze1
   maxCount: 10
-
-- type: material
-  id: Bronze
-  stackEntity: IngotBronze1
-  name: materials-bronze
-  icon: { sprite: Objects/Materials/ingots.rsi, state: sheet-bronze }
-  color: "#cd7f32"
-  price: 0.05
