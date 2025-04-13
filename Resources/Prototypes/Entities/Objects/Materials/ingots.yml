@@ -1,6 +1,6 @@
 - type: entity
   abstract: true
-  parent: BaseItem
+  parent: MaterialBase
   id: IngotBase
   description: A heavy metal ingot.
   components:

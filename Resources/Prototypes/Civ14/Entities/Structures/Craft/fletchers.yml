@@ -30,7 +30,7 @@
 
 - type: latheCategory
   id: Fletcher
-  name: Fletcher
+  name: lathe-category-fletcher
 
 - type: latheRecipePack
   id: FletchersPack

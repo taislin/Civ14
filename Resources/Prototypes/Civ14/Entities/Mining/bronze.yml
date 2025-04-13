@@ -13,10 +13,11 @@
   suffix: Full
   components:
     - type: Material
+    - type: Item
+      heldPrefix: gold
     - type: PhysicalComposition
       materialComposition:
-        Tin: 10
-        Copper: 90
+        Bronze: 100
     - type: Sprite
       sprite: "Objects/Materials/ingots.rsi"
       state: sheet-bronze
@@ -59,3 +60,11 @@
   icon: { sprite: /Textures/Objects/Materials/ingots.rsi, state: sheet-bronze }
   spawn: IngotBronze1
   maxCount: 10
+
+- type: material
+  id: Bronze
+  stackEntity: IngotBronze1
+  name: materials-bronze
+  icon: { sprite: Objects/Materials/ingots.rsi, state: sheet-bronze }
+  color: "#cd7f32"
+  price: 0.05

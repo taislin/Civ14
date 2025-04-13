@@ -30,7 +30,7 @@
 
 - type: latheCategory
   id: AnvilBronze
-  name: Bronze
+  name: lathe-category-bronze
 
 - type: latheRecipePack
   id: AnvilBronze
@@ -52,7 +52,7 @@
 
 - type: latheCategory
   id: AnvilGold
-  name: Gold
+  name: lathe-category-gold
 
 - type: latheRecipePack
   id: AnvilGold
@@ -68,7 +68,7 @@
     - AnvilGold
   completetime: 10
   materials:
-    IngotGold: 300
+    Gold: 300
   result: civ13_head_khepresh_war_crown
 - type: latheRecipe
   id: civ13_head_pharoah_headdress
@@ -76,7 +76,7 @@
     - AnvilGold
   completetime: 10
   materials:
-    IngotGold: 300
+    Gold: 300
   result: civ13_head_pharoah_headdress
 - type: latheRecipe
   id: civ13_head_sol_invictus_helmet
@@ -84,7 +84,7 @@
     - AnvilGold
   completetime: 10
   materials:
-    IngotGold: 300
+    Gold: 300
   result: civ13_head_sol_invictus_helmet
 - type: latheRecipe
   id: civ13_head_nemes_headdress
@@ -92,7 +92,7 @@
     - AnvilGold
   completetime: 10
   materials:
-    IngotGold: 300
+    Gold: 300
   result: civ13_head_nemes_headdress
 
 - type: latheRecipe
@@ -101,7 +101,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 800
+    Bronze: 800
   result: civ13_suit_bronze_chinese_lamellar
 
 - type: latheRecipe
@@ -110,7 +110,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 800
+    Bronze: 800
   result: civ13_suit_bronze_egyptian_lamellar
 
 - type: latheRecipe
@@ -119,7 +119,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 1000
+    Bronze: 1000
   result: civ13_suit_scaled_armor
 
 - type: latheRecipe
@@ -128,7 +128,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 700
+    Bronze: 700
   result: civ13_suit_bronze_chestplate
 
 - type: latheRecipe
@@ -137,7 +137,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 500
+    Bronze: 500
   result: civ13_head_greek_anax_helmet
 
 - type: latheRecipe
@@ -146,7 +146,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 500
+    Bronze: 500
   result: civ13_head_aries_helmet
 
 - type: latheRecipe
@@ -155,7 +155,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 500
+    Bronze: 500
   result: civ13_head_athena_helmet
 
 - type: latheRecipe
@@ -164,7 +164,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 300
+    Bronze: 300
   result: civ13_head_lochagos_helmet
 
 - type: latheRecipe
@@ -173,7 +173,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 300
+    Bronze: 300
   result: civ13_head_dimoerites_helmet
 
 - type: latheRecipe
@@ -182,7 +182,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 200
+    Bronze: 200
   result: civ13_head_bronze_phrigian_helmet
 
 - type: latheRecipe
@@ -191,7 +191,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 500
+    Bronze: 500
   result: civ13_head_bronze_osirus_headdress
 
 - type: latheRecipe
@@ -200,7 +200,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 500
+    Bronze: 500
   result: civ13_head_bronze_anubis_headdress
 
 - type: latheRecipe
@@ -209,7 +209,7 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 300
+    Bronze: 300
   result: civ13_head_egyptian_war_headdress
 
 - type: latheRecipe
@@ -218,5 +218,5 @@
     - AnvilBronze
   completetime: 10
   materials:
-    IngotBronze: 500
+    Bronze: 500
   result: civ13_head_chinese_warrior_helmet

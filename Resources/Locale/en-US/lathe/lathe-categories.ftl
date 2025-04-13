@@ -24,3 +24,5 @@ lathe-category-neck = Neck
 
 # Crafting tables
 lathe-category-fletcher = Fletcher
+lathe-category-gold = Gold
+lathe-category-Bronze = Bronze
