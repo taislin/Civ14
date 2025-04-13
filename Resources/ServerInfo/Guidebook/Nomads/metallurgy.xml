@@ -1,0 +1,83 @@
+<Document>
+# Guide to Metallurgy
+
+Sticks, stones and bones can only carry you so far, but Mother Nature is infinitely generous with her gifts, among which she includes a marvelous class of materials - metals. Grateful and astounded, we accept it and pledge that it will not be wasted on trifles. It shall serve us greatly in mastering ways of cutting, slashing, gutting, chopping and slicing. We shall use it to harness flames and tame explosions, to travel swiftly across vast distances and to bring the Torch of Civilization to the realms of dark ignorance! Bless you, Mother!
+
+## Obtaining Ores
+
+You will need to mine rocks in order to obtain ores. First, get a pickaxe:
+
+-   You'll need [bold]wood[/bold] and [bold]bone[/bold] for this. Go gather them (bones are obtained by butchering animals - click the carcass with something sharp, like a flint axe or a knife),
+-   Make a [bold]bone pickaxe[/bold].
+-   Find a [bold]rock[/bold] tile.
+-   Wield the axe (press [bold]Z[/bold]). Go on [bold]Combat Mode[/bold] and click on it while holding the [bold]pickaxe[bold] on your active hand.
+
+# Turning Ores into Metals
+
+## Kiln
+
+<GuideEntityEmbed Entity="StoneKiln" />
+
+The basic ore proccessor is the [bold]kiln[/bold]. This will enable you to produce basic ingots: [bold]Gold, Silver, Tin, Copper,[/bold] and [bold]Bronze[/bold].
+
+## Bloomery
+
+
+
+To produce [bold]Iron[/bold], you will need a [bold]bloomery[/bold].
+
+## Blast Furnace
+
+
+
+For advanced alloys like [bold]Steel[/bold], you will need a blast furnace.
+
+# Metals
+
+## Silver
+
+<GuideEntityEmbed Entity="IngotSilver" />
+
+Silver is a rare metal used for currency and jewelry. 1 ingot of silver can be used to produce 100 silver coins. The silver coin (sc) is the the basic measure of value in the game.
+
+## Gold
+
+<GuideEntityEmbed Entity="IngotGold" />
+
+Gold is the rarest metal, and is used in currency and fancy accessories. Gold has double the rarity and value of silver.
+
+## Tin
+
+<GuideEntityEmbed Entity="IngotTin" />
+
+Tin is a somewhat rare metal, mostly used to make bronze together with cooper.
+
+## Copper
+
+<GuideEntityEmbed Entity="IngotCopper" />
+
+Copper is a basic metal that is important early on in the game. You can craft tools, kitchen accessories, and very basic armours from it.
+
+Later in the game, you will need copper to produce electric and electronic products.
+
+## Bronze
+
+<GuideEntityEmbed Entity="IngotBronze" />
+
+Bronze is an alloy of tin and copper. You need to melt 9 parts of copper to 1 part of tin (9:1 ratio) in a [bold]kiln[bold]. For example, 1 unit of tin and 9 units of copper make 10 units of bronze.
+
+Bronze is an important early game alloy that will enable you to make decent weapons and armour.
+
+## Iron
+
+<GuideEntityEmbed Entity="IngotIron" />
+
+Smelt raw iron ore in the [bold]bloomery[bold] to obtain sponge iron.
+Work sponge iron at any anvil into usable iron ingots.
+
+## Steel
+
+<GuideEntityEmbed Entity="IngotSteel" />
+Smelt raw iron ore in the [bold]blast furnace[bold] to obtain pig iron.
+Work pig iron at the iron or steel anvil into usable steel sheets.
+</Document>
