@@ -122,7 +122,7 @@
           behaviors:
             - !type:PlaySoundBehavior
               sound:
-                collection: WoodDestroy
+                collection: StoneBreak
             - !type:DoActsBehavior
               acts: ["Destruction"]
     - type: Construction

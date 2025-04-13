@@ -1,4 +1,4 @@
-lathe-menu-title = Lathe Menu
+lathe-menu-title = Production Menu
 lathe-menu-queue = Queue
 lathe-menu-server-list = Server list
 lathe-menu-sync = Sync

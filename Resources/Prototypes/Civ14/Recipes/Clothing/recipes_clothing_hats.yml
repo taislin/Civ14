@@ -754,114 +754,7 @@
               doAfter: 5
     - node: end
       entity: civ13_head_gladiator_helmet
-- type: construction
-  name: sol invictus helmet
-  id: civ13_head_sol_invictus_helmet
-  graph: civ13_head_sol_invictus_helmet
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A gold adorned helmet with masqued visage and gold solar streaks. Worn by roman emperors.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/sol_invictus.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_sol_invictus_helmet
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 5
-              doAfter: 5
-    - node: end
-      entity: civ13_head_sol_invictus_helmet
-- type: construction
-  name: greek anax helmet
-  id: civ13_head_greek_anax_helmet
-  graph: civ13_head_greek_anax_helmet
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A reinforced bronze greek helmet, covering most of the face, with black plummage on top. Worn by hellenic kings.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/leonidas.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_greek_anax_helmet
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 5
-              doAfter: 5
-    - node: end
-      entity: civ13_head_greek_anax_helmet
-- type: construction
-  name: aries helmet
-  id: civ13_head_aries_helmet
-  graph: civ13_head_aries_helmet
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A reinforced bronze greek helmet, covering most of the face, with red plummage on top. Worn by dieties and avatars of destruction such as aries.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/aries.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_aries_helmet
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 5
-              doAfter: 5
-    - node: end
-      entity: civ13_head_aries_helmet
-- type: construction
-  name: athena helmet
-  id: civ13_head_athena_helmet
-  graph: civ13_head_athena_helmet
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A reinforced bronze greek helmet, covering most of the face, with blue plummage on top and a gold laurel. Chosen helm of the god of tactical warfare and knowledge athena herself.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/athena.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_athena_helmet
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 5
-              doAfter: 5
-    - node: end
-      entity: civ13_head_athena_helmet
+
 - type: construction
   name: Greek M15 Adrian helmet
   id: civ13_head_Greek_M15_Adrian_helmet
@@ -889,168 +782,7 @@
               doAfter: 5
     - node: end
       entity: civ13_head_Greek_M15_Adrian_helmet
-- type: construction
-  name: lochagos helmet
-  id: civ13_head_lochagos_helmet
-  graph: civ13_head_lochagos_helmet
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A bronze greek helmet, covering most of the face, with red plummage on top. Worn by hellenic lochagos.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/spartan.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_lochagos_helmet
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 5
-              doAfter: 5
-    - node: end
-      entity: civ13_head_lochagos_helmet
-- type: construction
-  name: dimoerites helmet
-  id: civ13_head_dimoerites_helmet
-  graph: civ13_head_dimoerites_helmet
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A bronze greek helmet, covering most of the face, with blue plummage on top. Worn by hellenic dimoerites.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/athenian.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_dimoerites_helmet
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 5
-              doAfter: 5
-    - node: end
-      entity: civ13_head_dimoerites_helmet
-- type: construction
-  name: egyptian war headdress
-  id: civ13_head_egyptian_war_headdress
-  graph: civ13_head_egyptian_war_headdress
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A bronze egyptian headpiece, with an exposed face to relieve the wearer of heat.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/egyptian_bronze_headdress.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_egyptian_war_headdress
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 5
-              doAfter: 5
-    - node: end
-      entity: civ13_head_egyptian_war_headdress
-- type: construction
-  name: bronze anubis headdress
-  id: civ13_head_bronze_anubis_headdress
-  graph: civ13_head_bronze_anubis_headdress
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A bronze egyptian headpiece, with the visage of the god anubis; god of the dead.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/anubis.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_bronze_anubis_headdress
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 5
-              doAfter: 5
-    - node: end
-      entity: civ13_head_bronze_anubis_headdress
-- type: construction
-  name: bronze osirus headdress
-  id: civ13_head_bronze_osirus_headdress
-  graph: civ13_head_bronze_osirus_headdress
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A bronze egyptian headpiece, with the visage of the god osiris; god of the underworld.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/osiris.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_bronze_osirus_headdress
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 5
-              doAfter: 5
-    - node: end
-      entity: civ13_head_bronze_osirus_headdress
-- type: construction
-  name: bronze phrigian helmet
-  id: civ13_head_bronze_phrigian_helmet
-  graph: civ13_head_bronze_phrigian_helmet
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A knob ended bronze phrigian helmet. With more emphasis on style than overall protection
-  icon:
-    sprite: Civ14/Clothing/exported/hats/phrigian_helmet.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_bronze_phrigian_helmet
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 4
-              doAfter: 10
-    - node: end
-      entity: civ13_head_bronze_phrigian_helmet
+
 - type: construction
   name: leather helmet
   id: civ13_head_leather_helmet
@@ -1105,33 +837,7 @@
               doAfter: 9
     - node: end
       entity: civ13_head_hatchigane_headband
-- type: construction
-  name: khepresh war crown
-  id: civ13_head_khepresh_war_crown
-  graph: civ13_head_khepresh_war_crown
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A ornate egyptian war crown made of leather and gold. It is not as protective as bronze or iron, but practical for protecting your majesty.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/khepresh.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_khepresh_war_crown
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Leather
-              amount: 3
-              doAfter: 9
-    - node: end
-      entity: civ13_head_khepresh_war_crown
+
 - type: construction
   name: horned helmet
   id: civ13_head_horned_helmet
@@ -1240,33 +946,7 @@
               doAfter: 5
     - node: end
       entity: civ13_head_conspicious_gaelic_helmet_1
-- type: construction
-  name: chinese warrior helmet
-  id: civ13_head_chinese_warrior_helmet
-  graph: civ13_head_chinese_warrior_helmet
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A bronze helmet, used by early chinese dynasties.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/bronze_chinese.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 3
-- type: constructionGraph
-  id: civ13_head_chinese_warrior_helmet
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 5
-              doAfter: 5
-    - node: end
-      entity: civ13_head_chinese_warrior_helmet
+
 - type: construction
   name: yellow ninja headband
   id: civ13_head_yellow_ninja_headband
@@ -3881,7 +3561,7 @@
       edges:
         - to: end
           steps:
-            - material: Cloth
+            - material: Gold
               amount: 5
               doAfter: 5
     - node: end
@@ -3935,7 +3615,7 @@
       edges:
         - to: end
           steps:
-            - material: Cloth
+            - material: Gold
               amount: 5
               doAfter: 5
     - node: end
@@ -7126,60 +6806,7 @@
               doAfter: 6
     - node: end
       entity: civ13_head_red_egyptian_headdress
-- type: construction
-  name: pharoah headdress
-  id: civ13_head_pharoah_headdress
-  graph: civ13_head_pharoah_headdress
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A ornate, golden headdress.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/pharoah_headdress.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_pharoah_headdress
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 6
-              doAfter: 6
-    - node: end
-      entity: civ13_head_pharoah_headdress
-- type: construction
-  name: nemes headdress
-  id: civ13_head_nemes_headdress
-  graph: civ13_head_nemes_headdress
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A fancy, golden headdress.
-  icon:
-    sprite: Civ14/Clothing/exported/hats/nemes_headdress.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 2
-- type: constructionGraph
-  id: civ13_head_nemes_headdress
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 6
-              doAfter: 6
-    - node: end
-      entity: civ13_head_nemes_headdress
+
 - type: construction
   name: double crown
   id: civ13_head_double_crown
@@ -7337,7 +6964,7 @@
       edges:
         - to: end
           steps:
-            - material: Cloth
+            - material: Gold
               amount: 6
               doAfter: 15
     - node: end

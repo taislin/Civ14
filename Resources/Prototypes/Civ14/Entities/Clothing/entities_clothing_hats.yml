@@ -17,7 +17,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_mamluk_conical_helmet
       node: end
       cost: 5
@@ -42,7 +41,6 @@
           Arrow: 0.19
           Heat: 0.35
     - type: Construction
-
       graph: civ13_head_Imperial_Red_Guard_Helmet
       node: end
       cost: 5
@@ -67,7 +65,6 @@
           Arrow: 0.19
           Heat: 0.35
     - type: Construction
-
       graph: civ13_head_Imperial_Senate_Guard_Helmet
       node: end
       cost: 5
@@ -92,7 +89,6 @@
           Arrow: 0.55
           Heat: 0.55
     - type: Construction
-
       graph: civ13_head_Phase_I_Replicant_Trooper_Helmet
       node: end
       cost: 5
@@ -117,7 +113,6 @@
           Arrow: 0.5
           Heat: 0.55
     - type: Construction
-
       graph: civ13_head_Phase_I_Replicant_ARF_Helmet
       node: end
       cost: 5
@@ -142,7 +137,6 @@
           Arrow: 0.5
           Heat: 0.44
     - type: Construction
-
       graph: civ13_head_Phase_I_Replicant_Airborne_Helmet
       node: end
       cost: 5
@@ -167,7 +161,6 @@
           Arrow: 0.4
           Heat: 0.5
     - type: Construction
-
       graph: civ13_head_Stormtrooper_Helmet
       node: end
       cost: 5
@@ -192,7 +185,6 @@
           Arrow: 0.4
           Heat: 0.5
     - type: Construction
-
       graph: civ13_head_Storm_Surgeon_Helmet
       node: end
       cost: 5
@@ -217,7 +209,6 @@
           Arrow: 0.5
           Heat: 0.5
     - type: Construction
-
       graph: civ13_head_Stormtrooper_Radio_Technician_Helmet
       node: end
       cost: 5
@@ -242,7 +233,6 @@
           Arrow: 0.55
           Heat: 0.55
     - type: Construction
-
       graph: civ13_head_AT_RT_Replicant_Driver_Helmet
       node: end
       cost: 5
@@ -267,7 +257,6 @@
           Arrow: 0.5
           Heat: 0.5
     - type: Construction
-
       graph: civ13_head_Phase_I_Replicant_Radio_Technician_Helmet
       node: end
       cost: 5
@@ -293,7 +282,6 @@
           Heat: 0.5
           Radiation: 0.65
     - type: Construction
-
       graph: civ13_head_Replicant_Engineer_Helmet
       node: end
       cost: 5
@@ -318,7 +306,6 @@
           Arrow: 0.35
           Heat: 0.4
     - type: Construction
-
       graph: civ13_head_Replicant_Commando_Helmet
       node: end
       cost: 5
@@ -343,7 +330,6 @@
           Arrow: 0.5
           Heat: 0.44
     - type: Construction
-
       graph: civ13_head_Phase_I_Replicant_Pilot_Helmet
       node: end
       cost: 5
@@ -368,7 +354,6 @@
           Arrow: 0.5
           Heat: 0.55
     - type: Construction
-
       graph: civ13_head_Phase_I_Replicant_MP_Helmet
       node: end
       cost: 5
@@ -393,7 +378,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1_helmet_2nd_LT
       node: end
       cost: 5
@@ -409,17 +393,8 @@
       sprite: Civ14/Clothing/exported/hats/m1_camo_mitchell_lt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/m1_camo_mitchell_lt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_M1_camo_helmet
       node: end
       cost: 5
@@ -444,7 +419,6 @@
           Arrow: 0.5
           Heat: 0.44
     - type: Construction
-
       graph: civ13_head_Phase_I_Replicant_Captain_Helmet
       node: end
       cost: 5
@@ -469,7 +443,6 @@
           Arrow: 0.5
           Heat: 0.44
     - type: Construction
-
       graph: civ13_head_Phase_I_Replicant_Commander_Helmet
       node: end
       cost: 5
@@ -494,7 +467,6 @@
           Arrow: 0.4
           Heat: 0.42
     - type: Construction
-
       graph: civ13_head_Phase_II_Replicant_Trooper_Helmet
       node: end
       cost: 5
@@ -521,7 +493,6 @@
           Arrow: 0.4
           Heat: 0.42
     - type: Construction
-
       graph: civ13_head_Phase_II_Replicant_Trooper_Helmet_1
       node: end
       cost: 5
@@ -546,7 +517,6 @@
           Arrow: 0.4
           Heat: 0.42
     - type: Construction
-
       graph: civ13_head_Phase_II_501st_Replicant_Trooper_Helmet
       node: end
       cost: 5
@@ -571,7 +541,6 @@
           Arrow: 0.5
           Heat: 0.55
     - type: Construction
-
       graph: civ13_head_Rebel_Fleet_Trooper_Helmet
       node: end
       cost: 5
@@ -596,7 +565,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_roman_legionary_helmet
       node: end
       cost: 5
@@ -612,17 +580,8 @@
       sprite: Civ14/Clothing/exported/hats/ushanka_plain_up.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ushanka_plain_up.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_ushanka
       node: end
       cost: 4
@@ -649,7 +608,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_roman_decurion_helmet
       node: end
       cost: 5
@@ -676,7 +634,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_roman_centurion_helmet
       node: end
       cost: 5
@@ -701,7 +658,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_gladiator_helmet
       node: end
       cost: 5
@@ -722,18 +678,12 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.35
-          Slash: 0.35
+          Blunt: 0.95
+          Slash: 0.9
           Piercing: 0.9
-          Arrow: 0.5
+          Arrow: 0.9
           Heat: 0.85
-    - type: Construction
 
-      graph: civ13_head_sol_invictus_helmet
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: greek anax helmet
   parent: ClothingHeadBase
@@ -749,18 +699,11 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.4
-          Slash: 0.4
-          Piercing: 0.95
-          Arrow: 0.55
-          Heat: 0.85
-    - type: Construction
+          Blunt: 0.85
+          Slash: 0.85
+          Piercing: 0.85
+          Arrow: 0.85
 
-      graph: civ13_head_greek_anax_helmet
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: aries helmet
   parent: ClothingHeadBase
@@ -776,18 +719,11 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.4
-          Slash: 0.4
-          Piercing: 0.95
-          Arrow: 0.55
-          Heat: 0.85
-    - type: Construction
+          Blunt: 0.85
+          Slash: 0.85
+          Piercing: 0.85
+          Arrow: 0.85
 
-      graph: civ13_head_aries_helmet
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: athena helmet
   parent: ClothingHeadBase
@@ -804,18 +740,11 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.30
-          Slash: 0.30
-          Piercing: 0.8
-          Arrow: 0.4
-          Heat: 0.85
-    - type: Construction
+          Blunt: 0.85
+          Slash: 0.85
+          Piercing: 0.85
+          Arrow: 0.85
 
-      graph: civ13_head_athena_helmet
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: Greek M15 Adrian helmet
   parent: ClothingHeadBase
@@ -835,7 +764,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Greek_M15_Adrian_helmet
       node: end
       cost: 5
@@ -856,18 +784,11 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.38
-          Slash: 0.38
+          Blunt: 0.9
+          Slash: 0.9
           Piercing: 0.9
-          Arrow: 0.56
-          Heat: 0.85
-    - type: Construction
+          Arrow: 0.9
 
-      graph: civ13_head_lochagos_helmet
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: dimoerites helmet
   parent: ClothingHeadBase
@@ -883,18 +804,11 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.38
-          Slash: 0.38
+          Blunt: 0.9
+          Slash: 0.9
           Piercing: 0.9
-          Arrow: 0.56
-          Heat: 0.85
-    - type: Construction
+          Arrow: 0.9
 
-      graph: civ13_head_dimoerites_helmet
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: egyptian war headdress
   parent: ClothingHeadBase
@@ -910,18 +824,12 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.5
-          Slash: 0.5
-          Piercing: 0.9
-          Arrow: 0.6
+          Blunt: 0.95
+          Slash: 0.95
+          Piercing: 0.95
+          Arrow: 0.65
           Heat: 0.85
-    - type: Construction
 
-      graph: civ13_head_egyptian_war_headdress
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: bronze anubis headdress
   parent: ClothingHeadBase
@@ -937,18 +845,12 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.30
-          Slash: 0.30
-          Piercing: 0.8
-          Arrow: 0.4
+          Blunt: 0.9
+          Slash: 0.9
+          Piercing: 0.9
+          Arrow: 0.9
           Heat: 0.85
-    - type: Construction
 
-      graph: civ13_head_bronze_anubis_headdress
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: bronze osirus headdress
   parent: ClothingHeadBase
@@ -964,25 +866,19 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.30
-          Slash: 0.30
-          Piercing: 0.8
-          Arrow: 0.4
+          Blunt: 0.9
+          Slash: 0.9
+          Piercing: 0.9
+          Arrow: 0.9
           Heat: 0.85
-    - type: Construction
 
-      graph: civ13_head_bronze_osirus_headdress
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: bronze phrigian helmet
   parent: ClothingHeadBase
   id: civ13_head_bronze_phrigian_helmet
   description: >-
     A knob ended bronze phrigian helmet. With more emphasis on style than
-    overall protection
+    overall protection.
   components:
     - type: Sprite
       sprite: Civ14/Clothing/exported/hats/phrigian_helmet.rsi
@@ -991,16 +887,11 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.62
-          Slash: 0.62
-          Arrow: 0.75
-          Heat: 0.85
-    - type: Construction
+          Blunt: 0.95
+          Slash: 0.95
+          Piercing: 0.95
+          Arrow: 0.95
 
-      graph: civ13_head_bronze_phrigian_helmet
-      node: end
-      cost: 4
-      time: 10
 - type: entity
   name: leather helmet
   parent: ClothingHeadBase
@@ -1019,7 +910,6 @@
           Arrow: 0.85
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_leather_helmet
       node: end
       cost: 3
@@ -1045,7 +935,6 @@
           Arrow: 0.85
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_hatchigane_headband
       node: end
       cost: 3
@@ -1066,18 +955,12 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.7
-          Slash: 0.7
-          Arrow: 0.8
+          Blunt: 0.95
+          Slash: 0.95
+          Piercing: 0.95
+          Arrow: 0.95
           Heat: 0.85
-          Radiation: 0
-    - type: Construction
 
-      graph: civ13_head_khepresh_war_crown
-      node: end
-      cost: 3
-      material: Leather
-      time: 9
 - type: entity
   name: horned helmet
   parent: ClothingHeadBase
@@ -1096,7 +979,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_horned_helmet
       node: end
       cost: 5
@@ -1122,7 +1004,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_winged_helmet
       node: end
       cost: 5
@@ -1149,7 +1030,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_conspicious_gaelic_helmet
       node: end
       cost: 5
@@ -1175,7 +1055,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_conspicious_gaelic_helmet_1
       node: end
       cost: 5
@@ -1194,17 +1073,11 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.55
-          Slash: 0.55
-          Arrow: 0.7
-          Heat: 0.85
-    - type: Construction
+          Blunt: 0.9
+          Slash: 0.9
+          Piercing: 0.9
+          Arrow: 0.9
 
-      graph: civ13_head_chinese_warrior_helmet
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: yellow ninja headband
   parent: ClothingHeadBase
@@ -1225,7 +1098,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_yellow_ninja_headband
       node: end
       cost: 5
@@ -1241,17 +1113,8 @@
       sprite: Civ14/Clothing/exported/hats/beret_rus_vdv_modern.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/beret_rus_vdv_modern.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_VDV_beret
       node: end
       cost: 5
@@ -1276,7 +1139,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1_helmet
       node: end
       cost: 5
@@ -1301,7 +1163,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_UN_helmet
       node: end
       cost: 5
@@ -1317,17 +1178,8 @@
       sprite: Civ14/Clothing/exported/hats/unitednations_medic.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/unitednations_medic.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_UN_medic_helmet
       node: end
       cost: 5
@@ -1343,17 +1195,8 @@
       sprite: Civ14/Clothing/exported/hats/a6b47cam.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/a6b47cam.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_camo_6B47_helmet
       node: end
       cost: 5
@@ -1378,7 +1221,6 @@
           Arrow: 0.25
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_CVC_helmet
       node: end
       cost: 5
@@ -1403,7 +1245,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Chinese_helmet
       node: end
       cost: 5
@@ -1428,7 +1269,6 @@
           Arrow: 0.55
           Heat: 0.75
     - type: Construction
-
       graph: civ13_head_Chinese_helmet_1
       node: end
       cost: 5
@@ -1453,7 +1293,6 @@
           Arrow: 0.4
           Heat: 0.6
     - type: Construction
-
       graph: civ13_head_Medical_FT1_advanced_helmet
       node: end
       cost: 5
@@ -1471,17 +1310,8 @@
       sprite: Civ14/Clothing/exported/hats/ssh_68_sovhelm.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ssh_68_sovhelm.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_SSh_68_helmet
       node: end
       cost: 5
@@ -1506,7 +1336,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_viet_pith_helmet
       node: end
       cost: 5
@@ -1531,7 +1360,6 @@
           Arrow: 0.85
           Heat: 0.95
     - type: Construction
-
       graph: civ13_head_white_hard_hat
       node: end
       cost: 3
@@ -1546,17 +1374,8 @@
       sprite: Civ14/Clothing/exported/hats/yellowcap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/yellowcap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_yellow_cap
       node: end
       cost: 5
@@ -1581,7 +1400,6 @@
           Arrow: 0.85
           Heat: 0.95
     - type: Construction
-
       graph: civ13_head_orange_hard_hat
       node: end
       cost: 3
@@ -1605,7 +1423,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_iron_pickelhaube
       node: end
       cost: 5
@@ -1630,7 +1447,6 @@
           Arrow: 0.65
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1915_Stahlhelm
       node: end
       cost: 5
@@ -1655,7 +1471,6 @@
           Arrow: 0.65
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_iron_brodie
       node: end
       cost: 5
@@ -1680,7 +1495,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_pith_helmet
       node: end
       cost: 5
@@ -1705,7 +1519,6 @@
           Arrow: 0.25
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_PASGT_helmet
       node: end
       cost: 5
@@ -1730,7 +1543,6 @@
           Arrow: 0.25
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Red_PASGT_helmet
       node: end
       cost: 5
@@ -1746,17 +1558,8 @@
       sprite: Civ14/Clothing/exported/hats/papakha_white.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/papakha_white.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_white_papakha
       node: end
       cost: 5
@@ -1781,7 +1584,6 @@
           Arrow: 0.32
           Heat: 0.82
     - type: Construction
-
       graph: civ13_head_LWH_helmet
       node: end
       cost: 5
@@ -1799,17 +1601,8 @@
       sprite: Civ14/Clothing/exported/hats/sd_cap_black.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sd_cap_black.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_sheriffs_department_cap
       node: end
       cost: 5
@@ -1834,7 +1627,6 @@
           Arrow: 0.054
           Heat: 0.78
     - type: Construction
-
       graph: civ13_head_OCP_ACH_helmet
       node: end
       cost: 5
@@ -1859,7 +1651,6 @@
           Arrow: 0.054
           Heat: 0.78
     - type: Construction
-
       graph: civ13_head_ACH_helmet
       node: end
       cost: 5
@@ -1884,7 +1675,6 @@
           Arrow: -0.1
           Heat: 0.73
     - type: Construction
-
       graph: civ13_head_MASKA_1_helmet
       node: end
       cost: 5
@@ -1903,17 +1693,8 @@
       sprite: Civ14/Clothing/exported/hats/a6b47.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/a6b47.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_6B47_helmet
       node: end
       cost: 5
@@ -1929,17 +1710,8 @@
       sprite: Civ14/Clothing/exported/hats/a6b47b.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/a6b47b.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_blugo_6B47_helmet
       node: end
       cost: 5
@@ -1955,17 +1727,8 @@
       sprite: Civ14/Clothing/exported/hats/a6b47bc.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/a6b47bc.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_blugo_command_6B47_helmet
       node: end
       cost: 5
@@ -1983,17 +1746,8 @@
       sprite: Civ14/Clothing/exported/hats/sfera_helmet.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sfera_helmet.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Sfera_helmet
       node: end
       cost: 5
@@ -2011,17 +1765,8 @@
       sprite: Civ14/Clothing/exported/hats/zsh1.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/zsh1.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_ZSh_1_helmet
       node: end
       cost: 5
@@ -2039,17 +1784,8 @@
       sprite: Civ14/Clothing/exported/hats/zsh2.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/zsh2.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_ZSh_2_helmet
       node: end
       cost: 5
@@ -2074,7 +1810,6 @@
           Arrow: 0.44
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_IDF_helmet
       node: end
       cost: 5
@@ -2090,17 +1825,8 @@
       sprite: Civ14/Clothing/exported/hats/hardhat_yellow.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/hardhat_yellow.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_firefighter_helmet
       node: end
       cost: 5
@@ -2125,7 +1851,6 @@
           Arrow: 0.32
           Heat: 0.82
     - type: Construction
-
       graph: civ13_head_Mk6_helmet
       node: end
       cost: 5
@@ -2141,17 +1866,8 @@
       sprite: Civ14/Clothing/exported/hats/cg634.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/cg634.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_CG634_helmet
       node: end
       cost: 5
@@ -2176,7 +1892,6 @@
           Arrow: 0.010000000000000009
           Heat: 0.58
     - type: Construction
-
       graph: civ13_head_Mechanical_Helmet
       node: end
       cost: 5
@@ -2201,7 +1916,6 @@
           Arrow: 0.19
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_QGF03_helmet
       node: end
       cost: 5
@@ -2228,7 +1942,6 @@
           Arrow: 0.25
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M95_helmet
       node: end
       cost: 5
@@ -2253,7 +1966,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1_Helmet
       node: end
       cost: 5
@@ -2278,7 +1990,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1_Helmet_with_netting
       node: end
       cost: 5
@@ -2303,7 +2014,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1_Helmet_with_green_netting
       node: end
       cost: 5
@@ -2328,7 +2038,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1_Medic_Helmet
       node: end
       cost: 5
@@ -2355,7 +2064,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1_2nd_LT_Helmet
       node: end
       cost: 5
@@ -2382,7 +2090,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1_1st_LT_Helmet
       node: end
       cost: 5
@@ -2409,7 +2116,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1_Captain_Helmet
       node: end
       cost: 5
@@ -2436,7 +2142,6 @@
           Arrow: 0.4
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_constable_helmet
       node: end
       cost: 6
@@ -2451,17 +2156,8 @@
       sprite: Civ14/Clothing/exported/hats/ncr_beret.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ncr_beret.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_NCR_Officer_Beret
       node: end
       cost: 5
@@ -2479,17 +2175,8 @@
       sprite: Civ14/Clothing/exported/hats/ncr_helmet_goggles.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ncr_helmet_goggles.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Goggles_Helmet
       node: end
       cost: 5
@@ -2513,7 +2200,6 @@
           Arrow: 0.98
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Legionaire_Cap
       node: end
       cost: 5
@@ -2538,7 +2224,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_imperial_helmet
       node: end
       cost: 5
@@ -2563,7 +2248,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_morion_helmet
       node: end
       cost: 5
@@ -2588,7 +2272,6 @@
           Arrow: 0.67
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_cabasset_helmet
       node: end
       cost: 5
@@ -2613,7 +2296,6 @@
           Arrow: 0.75
           Heat: 0.75
     - type: Construction
-
       graph: civ13_head_leather_infantry_cap
       node: end
       cost: 3
@@ -2629,17 +2311,8 @@
       sprite: Civ14/Clothing/exported/hats/brownbearpelt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/brownbearpelt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_brown_bear_pelt_hat
       node: end
       cost: 4
@@ -2655,17 +2328,8 @@
       sprite: Civ14/Clothing/exported/hats/bluecap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/bluecap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_blue_cap
       node: end
       cost: 5
@@ -2681,17 +2345,8 @@
       sprite: Civ14/Clothing/exported/hats/redcap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/redcap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_red_cap
       node: end
       cost: 5
@@ -2718,7 +2373,6 @@
           Arrow: 0.75
           Heat: 0.75
     - type: Construction
-
       graph: civ13_head_commisar_hat
       node: end
       cost: 5
@@ -2745,7 +2399,6 @@
           Arrow: 0.75
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_prussian_leather_infantry_helmet
       node: end
       cost: 5
@@ -2771,7 +2424,6 @@
           Heat: 0.75
           Radiation: 0
     - type: Construction
-
       graph: civ13_head_satsuma_infantry_hat
       node: end
       cost: 5
@@ -2799,7 +2451,6 @@
           Heat: 0.85
           Radiation: 0
     - type: Construction
-
       graph: civ13_head_dragoon_helmet
       node: end
       cost: 7
@@ -2825,7 +2476,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_black_napoleonic_bearskin_hat
       node: end
       cost: 4
@@ -2850,7 +2500,6 @@
           Arrow: 0.85
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_gold_crown
       node: end
       cost: 3
@@ -2875,7 +2524,6 @@
           Arrow: 0.85
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_silver_crown
       node: end
       cost: 3
@@ -2900,7 +2548,6 @@
           Arrow: 0.8
           Heat: 0.75
     - type: Construction
-
       graph: civ13_head_inlaid_gold_crown
       node: end
       cost: 5
@@ -2925,7 +2572,6 @@
           Arrow: 0.8
           Heat: 0.75
     - type: Construction
-
       graph: civ13_head_inlaid_silver_crown
       node: end
       cost: 5
@@ -2949,7 +2595,6 @@
           Arrow: 0.85
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_brown_padded_head_cap
       node: end
       cost: 4
@@ -2973,7 +2618,6 @@
           Arrow: 0.85
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_grey_padded_head_cap
       node: end
       cost: 4
@@ -2997,7 +2641,6 @@
           Arrow: 0.85
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_ratty_old_padded_head_cap
       node: end
       cost: 4
@@ -3024,7 +2667,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_italian_sallet
       node: end
       cost: 5
@@ -3051,7 +2693,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_german_sallet
       node: end
       cost: 5
@@ -3078,7 +2719,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_burgundian_sallet
       node: end
       cost: 5
@@ -3105,7 +2745,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_hounskull_bascinet
       node: end
       cost: 5
@@ -3130,7 +2769,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_knight_helmet
       node: end
       cost: 5
@@ -3155,7 +2793,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_protective_conical_helmet
       node: end
       cost: 5
@@ -3180,7 +2817,6 @@
           Arrow: 0.65
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_kettle_helmet
       node: end
       cost: 5
@@ -3205,7 +2841,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_conical_helmet
       node: end
       cost: 5
@@ -3230,7 +2865,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_coif_wrapped_mamluk_helmet
       node: end
       cost: 5
@@ -3255,7 +2889,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_iron_coif_and_helmet
       node: end
       cost: 5
@@ -3280,7 +2913,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_purple_arabic_turban_helmet
       node: end
       cost: 5
@@ -3305,7 +2937,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_red_arabic_turban_helmet
       node: end
       cost: 5
@@ -3330,7 +2961,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_green_arabic_turban_helmet
       node: end
       cost: 5
@@ -3355,7 +2985,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_blue_arabic_turban_helmet
       node: end
       cost: 5
@@ -3382,7 +3011,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_long_arabic_helmet
       node: end
       cost: 5
@@ -3409,7 +3037,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_feminine_long_arabic_helmet
       node: end
       cost: 5
@@ -3434,7 +3061,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_templar_knight_helmet
       node: end
       cost: 5
@@ -3461,7 +3087,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_emirate_helmet
       node: end
       cost: 7
@@ -3486,7 +3111,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_crusader_helmet
       node: end
       cost: 5
@@ -3513,7 +3137,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_crusader_king_helmet
       node: end
       cost: 5
@@ -3540,7 +3163,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_baltic_crusader_helmet
       node: end
       cost: 5
@@ -3567,7 +3189,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_baltic_grandmaster_helmet
       node: end
       cost: 5
@@ -3595,7 +3216,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_baltic_crusader_king_helmet
       node: end
       cost: 5
@@ -3622,7 +3242,6 @@
           Arrow: 0.30
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_templar_priest_helmet
       node: end
       cost: 5
@@ -3649,7 +3268,6 @@
           Arrow: 0.30
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_baltic_priest_helmet
       node: end
       cost: 5
@@ -3674,7 +3292,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_viking_helmet
       node: end
       cost: 5
@@ -3701,7 +3318,6 @@
           Arrow: 0.5
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_royal_mamluk_conical_helmet
       node: end
       cost: 5
@@ -3726,7 +3342,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_royal_viking_helmet
       node: end
       cost: 5
@@ -3753,7 +3368,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_royal_viking_helmet_1
       node: end
       cost: 5
@@ -3780,7 +3394,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_varangian_helmet
       node: end
       cost: 5
@@ -3807,7 +3420,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_imperial_chinese_helmet
       node: end
       cost: 5
@@ -3834,7 +3446,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_penlianal_whitestrake_helmet
       node: end
       cost: 5
@@ -3861,7 +3472,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_hell_knight_helmet
       node: end
       cost: 5
@@ -3886,7 +3496,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_saint_helmet
       node: end
       cost: 5
@@ -3913,7 +3522,6 @@
           Arrow: 0.1
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_lordran_helmet
       node: end
       cost: 5
@@ -3929,17 +3537,8 @@
       sprite: Civ14/Clothing/exported/hats/dwelmet.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/dwelmet.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_dwemmer_helmet
       node: end
       cost: 5
@@ -3966,7 +3565,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_leather_samurai_helmet
       node: end
       cost: 7
@@ -3991,7 +3589,6 @@
           Arrow: 0.8
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_hide_helmet
       node: end
       cost: 5
@@ -4018,7 +3615,6 @@
           Arrow: 0.7
           Heat: 0.75
     - type: Construction
-
       graph: civ13_head_iron_helmet
       node: end
       cost: 5
@@ -4043,7 +3639,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_stormcloak_officer_helmet
       node: end
       cost: 5
@@ -4068,7 +3663,6 @@
           Arrow: 0.5
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_imperial_officer_helmet
       node: end
       cost: 5
@@ -4095,7 +3689,6 @@
           Heat: 0.85
           Radiation: 0
     - type: Construction
-
       graph: civ13_head_leather_skullcap_helmet
       node: end
       cost: 3
@@ -4120,7 +3713,6 @@
           Arrow: 0.5
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_samurai_helmet
       node: end
       cost: 5
@@ -4147,7 +3739,6 @@
           Arrow: 0.85
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_jingasa
       node: end
       cost: 5
@@ -4172,7 +3763,6 @@
           Arrow: 0.85
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_kasa
       node: end
       cost: 3
@@ -4188,17 +3778,8 @@
       sprite: Civ14/Clothing/exported/hats/kevlarhelmet.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/kevlarhelmet.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_black_kevlar_helmet
       node: end
       cost: 5
@@ -4216,17 +3797,8 @@
       sprite: Civ14/Clothing/exported/hats/kevlarhelmet_press.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/kevlarhelmet_press.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Press_kevlar_helmet
       node: end
       cost: 5
@@ -4251,7 +3823,6 @@
           Arrow: 0.35
           Heat: 0.65
     - type: Construction
-
       graph: civ13_head_motorcycle_helmet
       node: end
       cost: 5
@@ -4276,7 +3847,6 @@
           Arrow: 0.054
           Heat: 0.73
     - type: Construction
-
       graph: civ13_head_swat_helmet
       node: end
       cost: 5
@@ -4301,7 +3871,6 @@
           Arrow: 0.054
           Heat: 0.73
     - type: Construction
-
       graph: civ13_head_swat_helmet_1
       node: end
       cost: 5
@@ -4317,17 +3886,8 @@
       sprite: Civ14/Clothing/exported/hats/ft1_helmet.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ft1_helmet.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_FT1_advanced_helmet
       node: end
       cost: 5
@@ -4343,17 +3903,8 @@
       sprite: Civ14/Clothing/exported/hats/tacticalhelmet.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tacticalhelmet.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_tactical_helmet
       node: end
       cost: 5
@@ -4369,17 +3920,8 @@
       sprite: Civ14/Clothing/exported/hats/ioghelmet.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ioghelmet.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_IOG_helmet
       node: end
       cost: 5
@@ -4395,17 +3937,8 @@
       sprite: Civ14/Clothing/exported/hats/iogmask1.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/iogmask1.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_IOG_helmet_1
       node: end
       cost: 5
@@ -4431,7 +3964,6 @@
           Heat: 0.8
           Radiation: 0.6
     - type: Construction
-
       graph: civ13_head_scrap_metal_helmet
       node: end
       cost: 5
@@ -4471,17 +4003,8 @@
       sprite: Civ14/Clothing/exported/hats/chitin_helmet.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/chitin_helmet.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_chitin_helmet
       node: end
       cost: 7
@@ -4506,7 +4029,6 @@
           Heat: 0.8
           Radiation: 0.55
     - type: Construction
-
       graph: civ13_head_saurons_helmet
       node: end
       cost: 5
@@ -4530,7 +4052,6 @@
           Arrow: 0.19
           Radiation: 0.9
     - type: Construction
-
       graph: civ13_head_orc_beserker_helm
       node: end
       cost: 5
@@ -4554,7 +4075,6 @@
           Arrow: 0.1
           Radiation: 0.9
     - type: Construction
-
       graph: civ13_head_iron_helmet_1
       node: end
       cost: 5
@@ -4578,7 +4098,6 @@
           Arrow: 0.30
           Radiation: 0.9
     - type: Construction
-
       graph: civ13_head_iron_helmet_1_2
       node: end
       cost: 5
@@ -4603,7 +4122,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_orc_spearman_helm
       node: end
       cost: 5
@@ -4628,7 +4146,6 @@
           Arrow: 0.55
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_orc_captain_helm
       node: end
       cost: 5
@@ -4653,7 +4170,6 @@
           Arrow: 0.6
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_orc_grunt_helm
       node: end
       cost: 5
@@ -4678,7 +4194,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Greek_M15_Adrian_helmet_1
       node: end
       cost: 5
@@ -4703,7 +4218,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M15_Adrian_helmet
       node: end
       cost: 5
@@ -4728,7 +4242,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Medic_M15_Adrian_helmet
       node: end
       cost: 5
@@ -4753,7 +4266,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Russian_M15_Adrian_helmet
       node: end
       cost: 5
@@ -4778,7 +4290,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Medic_M15_Adrian_helmet_1
       node: end
       cost: 5
@@ -4803,7 +4314,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M26_Adrian_helmet
       node: end
       cost: 5
@@ -4828,7 +4338,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Medic_M26_Adrian_helmet
       node: end
       cost: 5
@@ -4853,7 +4362,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Mk1_Brodie_Helmet
       node: end
       cost: 5
@@ -4869,17 +4377,8 @@
       sprite: Civ14/Clothing/exported/hats/brodie_mk1_ag.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/brodie_mk1_ag.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Mk1_Brodie_Helmet_1
       node: end
       cost: 5
@@ -4895,17 +4394,8 @@
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_og.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_og.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Mk2_Brodie_Helmet
       node: end
       cost: 5
@@ -4921,17 +4411,8 @@
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_medic.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_medic.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Mk2_Brodie_Medic_Helmet
       node: end
       cost: 5
@@ -4947,17 +4428,8 @@
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_irish.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_irish.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Irish_Mk2_Brodie_Helmet
       node: end
       cost: 5
@@ -4973,17 +4445,8 @@
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_netgreen.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_netgreen.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Mk2_Brodie_Helmet_with_green_netting
       node: end
       cost: 5
@@ -4999,17 +4462,8 @@
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_nettan.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_nettan.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Mk2_Brodie_Helmet_with_tan_netting
       node: end
       cost: 5
@@ -5025,17 +4479,8 @@
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_nettanf.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_nettanf.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Camouflaged_Mk2_Brodie_Helmet
       node: end
       cost: 5
@@ -5051,17 +4496,8 @@
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_netgreenf.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/brodie_mk2_netgreenf.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Camouflaged_Mk2_Brodie_Helmet_1
       node: end
       cost: 5
@@ -5086,7 +4522,6 @@
           Arrow: 0.7
           Heat: 0.9
     - type: Construction
-
       graph: civ13_head_Leather_pickelhaube
       node: end
       cost: 5
@@ -5113,7 +4548,6 @@
           Arrow: 0.75
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Japanese_sakura_helmet
       node: end
       cost: 5
@@ -5140,7 +4574,6 @@
           Arrow: 0.66
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Japanese_helmet
       node: end
       cost: 5
@@ -5156,17 +4589,8 @@
       sprite: Civ14/Clothing/exported/hats/bandana.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/bandana.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_pirate_bandana
       node: end
       cost: 5
@@ -5194,7 +4618,6 @@
           Arrow: 0.66
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Japanese_SNLF_helmet
       node: end
       cost: 5
@@ -5222,7 +4645,6 @@
           Arrow: 0.66
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Japanese_medic_helmet
       node: end
       cost: 5
@@ -5250,7 +4672,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Japanese_tanker_helmet
       node: end
       cost: 5
@@ -5275,7 +4696,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_US_mp_helmet
       node: end
       cost: 5
@@ -5300,7 +4720,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_german_stahlhelm
       node: end
       cost: 5
@@ -5325,7 +4744,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Fallschirmjager_stahlhelm
       node: end
       cost: 5
@@ -5352,7 +4770,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_german_medic_stahlhelm
       node: end
       cost: 5
@@ -5379,7 +4796,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_german_stahlhelm_1
       node: end
       cost: 5
@@ -5407,7 +4823,6 @@
           Arrow: 0.67
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_German_SS_helmet
       node: end
       cost: 5
@@ -5432,7 +4847,6 @@
           Arrow: 0.67
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_German_SS_helmet_1
       node: end
       cost: 5
@@ -5457,7 +4871,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_soviet_helmet
       node: end
       cost: 5
@@ -5485,7 +4898,6 @@
           Arrow: 0.75
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Greek_M1934/39_Helmet
       node: end
       cost: 5
@@ -5514,7 +4926,6 @@
           Arrow: 0.75
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M33_Helmet
       node: end
       cost: 5
@@ -5543,7 +4954,6 @@
           Arrow: 0.75
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M33_Medic_Helmet
       node: end
       cost: 5
@@ -5568,7 +4978,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1_Helmet_with_netting_1
       node: end
       cost: 5
@@ -5595,7 +5004,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1_Chaplain_Helmet
       node: end
       cost: 5
@@ -5622,7 +5030,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Black_M1_MP_Helmet
       node: end
       cost: 5
@@ -5649,7 +5056,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_M1_MP_Helmet
       node: end
       cost: 5
@@ -5674,7 +5080,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_USMC_helmet
       node: end
       cost: 5
@@ -5701,7 +5106,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_USMC_sergeant_helmet
       node: end
       cost: 5
@@ -5728,7 +5132,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_soviet_medical_helmet
       node: end
       cost: 5
@@ -5752,7 +5155,6 @@
           Arrow: 0.75
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_bronze_montefortino_helmet
       node: end
       cost: 4
@@ -5769,17 +5171,8 @@
       sprite: Civ14/Clothing/exported/hats/chefhat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/chefhat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_chefs_hat
       node: end
       cost: 5
@@ -5795,17 +5188,8 @@
       sprite: Civ14/Clothing/exported/hats/captain.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/captain.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_captains_hat
       node: end
       cost: 5
@@ -5821,17 +5205,8 @@
       sprite: Civ14/Clothing/exported/hats/blackcap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/blackcap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_cap
       node: end
       cost: 5
@@ -5848,17 +5223,8 @@
       sprite: Civ14/Clothing/exported/hats/chaplain_hood.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/chaplain_hood.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_preachers_hood
       node: end
       cost: 5
@@ -5874,17 +5240,8 @@
       sprite: Civ14/Clothing/exported/hats/hairflower.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/hairflower.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_hair_flower_pin
       node: end
       cost: 5
@@ -5900,17 +5257,8 @@
       sprite: Civ14/Clothing/exported/hats/pwig.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/pwig.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_powdered_wig
       node: end
       cost: 5
@@ -5926,17 +5274,8 @@
       sprite: Civ14/Clothing/exported/hats/tophat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tophat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_top_hat
       node: end
       cost: 5
@@ -5952,17 +5291,8 @@
       sprite: Civ14/Clothing/exported/hats/pimp_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/pimp_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_pimp_hat
       node: end
       cost: 5
@@ -5978,17 +5308,8 @@
       sprite: Civ14/Clothing/exported/hats/peakyblindercap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/peakyblindercap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_flat_cap
       node: end
       cost: 5
@@ -6004,17 +5325,8 @@
       sprite: Civ14/Clothing/exported/hats/peakyblindercap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/peakyblindercap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_flat_cap_1
       node: end
       cost: 5
@@ -6030,17 +5342,8 @@
       sprite: Civ14/Clothing/exported/hats/pirate.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/pirate.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_pirate_hat
       node: end
       cost: 5
@@ -6056,17 +5359,8 @@
       sprite: Civ14/Clothing/exported/hats/toughguy.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/toughguy.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_specialist_bandana
       node: end
       cost: 5
@@ -6082,17 +5376,8 @@
       sprite: Civ14/Clothing/exported/hats/bandana_olive.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/bandana_olive.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_olive_bandana
       node: end
       cost: 5
@@ -6109,17 +5394,8 @@
       sprite: Civ14/Clothing/exported/hats/feathered_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/feathered_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_feather_trilby
       node: end
       cost: 5
@@ -6135,17 +5411,8 @@
       sprite: Civ14/Clothing/exported/hats/fez.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/fez.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_fez
       node: end
       cost: 5
@@ -6161,17 +5428,8 @@
       sprite: Civ14/Clothing/exported/hats/bearpelt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/bearpelt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_bearpelt_headcover
       node: end
       cost: 5
@@ -6189,17 +5447,8 @@
       sprite: Civ14/Clothing/exported/hats/philosopher_wig.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/philosopher_wig.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_natural_philosophers_wig
       node: end
       cost: 5
@@ -6215,17 +5464,8 @@
       sprite: Civ14/Clothing/exported/hats/orange_bandana.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/orange_bandana.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_orange_bandana
       node: end
       cost: 5
@@ -6241,17 +5481,8 @@
       sprite: Civ14/Clothing/exported/hats/dunce_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/dunce_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_dunce_cap
       node: end
       cost: 5
@@ -6267,17 +5498,8 @@
       sprite: Civ14/Clothing/exported/hats/custom_beanie.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/custom_beanie.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_beanie
       node: end
       cost: 2
@@ -6294,17 +5516,8 @@
       sprite: Civ14/Clothing/exported/hats/customberet_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/customberet_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_beret
       node: end
       cost: 2
@@ -6320,17 +5533,8 @@
       sprite: Civ14/Clothing/exported/hats/custombandana_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/custombandana_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_bandana
       node: end
       cost: 2
@@ -6346,17 +5550,8 @@
       sprite: Civ14/Clothing/exported/hats/customnoblehat_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/customnoblehat_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_noble_hat
       node: end
       cost: 4
@@ -6372,17 +5567,8 @@
       sprite: Civ14/Clothing/exported/hats/wool_hood.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/wool_hood.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_wool_hood
       node: end
       cost: 2
@@ -6397,17 +5583,8 @@
       sprite: Civ14/Clothing/exported/hats/drill_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/drill_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Drill_hat
       node: end
       cost: 5
@@ -6423,17 +5600,8 @@
       sprite: Civ14/Clothing/exported/hats/taqiyah.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/taqiyah.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_taqiyah
       node: end
       cost: 2
@@ -6449,17 +5617,8 @@
       sprite: Civ14/Clothing/exported/hats/hijab.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/hijab.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_hijab
       node: end
       cost: 2
@@ -6475,17 +5634,8 @@
       sprite: Civ14/Clothing/exported/hats/kippa.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/kippa.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_kippa
       node: end
       cost: 2
@@ -6501,17 +5651,8 @@
       sprite: Civ14/Clothing/exported/hats/bandana_ballas1.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/bandana_ballas1.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_purple_bandana
       node: end
       cost: 5
@@ -6527,17 +5668,8 @@
       sprite: Civ14/Clothing/exported/hats/bandana_grove.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/bandana_grove.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_green_bandana
       node: end
       cost: 5
@@ -6553,17 +5685,8 @@
       sprite: Civ14/Clothing/exported/hats/repofficer_navcaptain.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/repofficer_navcaptain.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_imperial_naval_officer_cap
       node: end
       cost: 5
@@ -6581,17 +5704,8 @@
       sprite: Civ14/Clothing/exported/hats/impofficer_stormofficer.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/impofficer_stormofficer.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_imperial_black_field_cap
       node: end
       cost: 5
@@ -6607,17 +5721,8 @@
       sprite: Civ14/Clothing/exported/hats/repnavalcaptain_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/repnavalcaptain_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_republic_naval_officer_cap
       node: end
       cost: 5
@@ -6633,17 +5738,8 @@
       sprite: Civ14/Clothing/exported/hats/repensign_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/repensign_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_republic_naval_ensign_cap
       node: end
       cost: 5
@@ -6659,17 +5755,8 @@
       sprite: Civ14/Clothing/exported/hats/repmedicalofficer_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/repmedicalofficer_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_republic_medical_officer_cap
       node: end
       cost: 5
@@ -6685,17 +5772,8 @@
       sprite: Civ14/Clothing/exported/hats/impofficer_stormofficer.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/impofficer_stormofficer.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_imperial_officer_cap
       node: end
       cost: 5
@@ -6711,17 +5789,8 @@
       sprite: Civ14/Clothing/exported/hats/caubeen.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/caubeen.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_caubeen
       node: end
       cost: 5
@@ -6737,17 +5806,8 @@
       sprite: Civ14/Clothing/exported/hats/ainu.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ainu.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_ainu_bandana
       node: end
       cost: 4
@@ -6763,17 +5823,8 @@
       sprite: Civ14/Clothing/exported/hats/toxotai.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/toxotai.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_toxotai_hat
       node: end
       cost: 5
@@ -6789,17 +5840,8 @@
       sprite: Civ14/Clothing/exported/hats/egyptian_headdress_black.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/egyptian_headdress_black.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_black_egyptian_headdress
       node: end
       cost: 4
@@ -6815,17 +5857,8 @@
       sprite: Civ14/Clothing/exported/hats/egyptian_headdress_blue.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/egyptian_headdress_blue.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_blue_egyptian_headdress
       node: end
       cost: 4
@@ -6841,17 +5874,8 @@
       sprite: Civ14/Clothing/exported/hats/egyptian_headdress_red.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/egyptian_headdress_red.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_red_egyptian_headdress
       node: end
       cost: 4
@@ -6867,22 +5891,8 @@
       sprite: Civ14/Clothing/exported/hats/pharoah_headdress.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/pharoah_headdress.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
-      graph: civ13_head_pharoah_headdress
-      node: end
-      cost: 6
-      material: Cloth
-      time: 6
+
 - type: entity
   name: nemes headdress
   parent: ClothingHeadBase
@@ -6893,22 +5903,8 @@
       sprite: Civ14/Clothing/exported/hats/nemes_headdress.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/nemes_headdress.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
-      graph: civ13_head_nemes_headdress
-      node: end
-      cost: 6
-      material: Cloth
-      time: 6
+
 - type: entity
   name: double crown
   parent: ClothingHeadBase
@@ -6919,17 +5915,8 @@
       sprite: Civ14/Clothing/exported/hats/doublecrown.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/doublecrown.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_double_crown
       node: end
       cost: 5
@@ -6947,17 +5934,8 @@
       sprite: Civ14/Clothing/exported/hats/hedjet.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/hedjet.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_hedjet_crown
       node: end
       cost: 5
@@ -6975,17 +5953,8 @@
       sprite: Civ14/Clothing/exported/hats/deshret.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/deshret.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_deshret_crown
       node: end
       cost: 5
@@ -7003,17 +5972,8 @@
       sprite: Civ14/Clothing/exported/hats/pschent.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/pschent.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_pschent_crown
       node: end
       cost: 5
@@ -7029,17 +5989,8 @@
       sprite: Civ14/Clothing/exported/hats/laurelcrown.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/laurelcrown.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_laurel_crown
       node: end
       cost: 8
@@ -7054,17 +6005,8 @@
       sprite: Civ14/Clothing/exported/hats/laurelcrown_gold.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/laurelcrown_gold.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_gold_laurel_crown
       node: end
       cost: 6
@@ -7079,17 +6021,8 @@
       sprite: Civ14/Clothing/exported/hats/fiendish.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/fiendish.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_fiendish_headdress
       node: end
       cost: 4
@@ -7107,17 +6040,8 @@
       sprite: Civ14/Clothing/exported/hats/semitic_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/semitic_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_semitic_cap
       node: end
       cost: 4
@@ -7133,17 +6057,8 @@
       sprite: Civ14/Clothing/exported/hats/wolfpelt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/wolfpelt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_wolfpelt_headcover
       node: end
       cost: 4
@@ -7159,17 +6074,8 @@
       sprite: Civ14/Clothing/exported/hats/pantherpelt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/pantherpelt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_pantherpelt_headcover
       node: end
       cost: 3
@@ -7185,17 +6091,8 @@
       sprite: Civ14/Clothing/exported/hats/lionpelt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/lionpelt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_lionpelt_headcover
       node: end
       cost: 3
@@ -7211,17 +6108,8 @@
       sprite: Civ14/Clothing/exported/hats/gatorpelt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/gatorpelt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_alligator_pelt_headcover
       node: end
       cost: 3
@@ -7237,17 +6125,8 @@
       sprite: Civ14/Clothing/exported/hats/foxpelt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/foxpelt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_foxpelt_headcover
       node: end
       cost: 3
@@ -7265,17 +6144,8 @@
       sprite: Civ14/Clothing/exported/hats/sheeppelt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sheeppelt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_sheep_pelt_headcover
       node: end
       cost: 3
@@ -7293,17 +6163,8 @@
       sprite: Civ14/Clothing/exported/hats/goatpelt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/goatpelt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_goatpelt_headcover
       node: end
       cost: 3
@@ -7321,17 +6182,8 @@
       sprite: Civ14/Clothing/exported/hats/bisonpelt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/bisonpelt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_bisonpelt_headcover
       node: end
       cost: 3
@@ -7349,17 +6201,8 @@
       sprite: Civ14/Clothing/exported/hats/deshret.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/deshret.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_atef_crown
       node: end
       cost: 5
@@ -7375,17 +6218,8 @@
       sprite: Civ14/Clothing/exported/hats/sd_sheriffhat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sd_sheriffhat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_sheriffs_stratton_hat
       node: end
       cost: 5
@@ -7401,17 +6235,8 @@
       sprite: Civ14/Clothing/exported/hats/sd_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sd_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_sheriffs_department_cap_1
       node: end
       cost: 5
@@ -7427,17 +6252,8 @@
       sprite: Civ14/Clothing/exported/hats/traffic_cop.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/traffic_cop.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_police_cap
       node: end
       cost: 4
@@ -7453,17 +6269,8 @@
       sprite: Civ14/Clothing/exported/hats/beret_red.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/beret_red.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_red_beret
       node: end
       cost: 5
@@ -7479,17 +6286,8 @@
       sprite: Civ14/Clothing/exported/hats/beret_black.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/beret_black.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_black_beret
       node: end
       cost: 5
@@ -7505,17 +6303,8 @@
       sprite: Civ14/Clothing/exported/hats/beret_green_insig.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/beret_green_insig.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_green_beret
       node: end
       cost: 5
@@ -7531,17 +6320,8 @@
       sprite: Civ14/Clothing/exported/hats/beret_green.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/beret_green.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_green_beret_1
       node: end
       cost: 5
@@ -7557,17 +6337,8 @@
       sprite: Civ14/Clothing/exported/hats/unitednations_beret.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/unitednations_beret.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_UN_beret
       node: end
       cost: 5
@@ -7583,17 +6354,8 @@
       sprite: Civ14/Clothing/exported/hats/ghillie.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ghillie.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_ghillie_headcover
       node: end
       cost: 5
@@ -7609,17 +6371,8 @@
       sprite: Civ14/Clothing/exported/hats/black_boonie.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/black_boonie.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_black_boonie
       node: end
       cost: 5
@@ -7635,17 +6388,8 @@
       sprite: Civ14/Clothing/exported/hats/khaki_boonie.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/khaki_boonie.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_khaki_boonie
       node: end
       cost: 5
@@ -7661,17 +6405,8 @@
       sprite: Civ14/Clothing/exported/hats/og107_boonie.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/og107_boonie.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_olive_green_boonie
       node: end
       cost: 5
@@ -7687,17 +6422,8 @@
       sprite: Civ14/Clothing/exported/hats/tilly_cadpat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tilly_cadpat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_cadpat_tilly
       node: end
       cost: 5
@@ -7713,17 +6439,8 @@
       sprite: Civ14/Clothing/exported/hats/rice_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/rice_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_rice_hat
       node: end
       cost: 3
@@ -7738,17 +6455,8 @@
       sprite: Civ14/Clothing/exported/hats/chinese_ushanka_up.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/chinese_ushanka_up.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_chinese_ushanka
       node: end
       cost: 5
@@ -7764,17 +6472,8 @@
       sprite: Civ14/Clothing/exported/hats/nva_off_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/nva_off_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_NVA_cap
       node: end
       cost: 5
@@ -7790,17 +6489,8 @@
       sprite: Civ14/Clothing/exported/hats/ushanka_new_up.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ushanka_new_up.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_soviet_ushanka
       node: end
       cost: 5
@@ -7816,17 +6506,8 @@
       sprite: Civ14/Clothing/exported/hats/nkvd_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/nkvd_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_NKVD_cap
       node: end
       cost: 5
@@ -7842,17 +6523,8 @@
       sprite: Civ14/Clothing/exported/hats/nkvd_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/nkvd_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_KGB_cap
       node: end
       cost: 5
@@ -7868,17 +6540,8 @@
       sprite: Civ14/Clothing/exported/hats/sailor_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sailor_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_US_sailor_hat
       node: end
       cost: 5
@@ -7894,17 +6557,8 @@
       sprite: Civ14/Clothing/exported/hats/upapilotka.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/upapilotka.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Blugoslavian_sailor_hat
       node: end
       cost: 5
@@ -7920,17 +6574,8 @@
       sprite: Civ14/Clothing/exported/hats/sailor_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sailor_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Redmenian_sailor_hat
       node: end
       cost: 5
@@ -7946,17 +6591,8 @@
       sprite: Civ14/Clothing/exported/hats/japcap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/japcap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Japanese_Cap
       node: end
       cost: 5
@@ -7972,17 +6608,8 @@
       sprite: Civ14/Clothing/exported/hats/japoffcap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/japoffcap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Japanese_Officer_Cap
       node: end
       cost: 5
@@ -7998,17 +6625,8 @@
       sprite: Civ14/Clothing/exported/hats/ww2_japcap_navy_officer.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ww2_japcap_navy_officer.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Japanese_naval_officer_cap
       node: end
       cost: 5
@@ -8024,17 +6642,8 @@
       sprite: Civ14/Clothing/exported/hats/ww2_japcap_navy.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ww2_japcap_navy.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Japanese_petty_officer_cap
       node: end
       cost: 5
@@ -8050,17 +6659,8 @@
       sprite: Civ14/Clothing/exported/hats/japanese_sailor_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/japanese_sailor_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Japanese_sailor_cap
       node: end
       cost: 5
@@ -8078,17 +6678,8 @@
       sprite: Civ14/Clothing/exported/hats/ww2_japcap_snlf.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ww2_japcap_snlf.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Japanese_cap
       node: end
       cost: 5
@@ -8104,17 +6695,8 @@
       sprite: Civ14/Clothing/exported/hats/japbandana.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/japbandana.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Japanese_headband
       node: end
       cost: 5
@@ -8130,17 +6712,8 @@
       sprite: Civ14/Clothing/exported/hats/jappilotcap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/jappilotcap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Japanese_pilot_cap
       node: end
       cost: 5
@@ -8156,17 +6729,8 @@
       sprite: Civ14/Clothing/exported/hats/japcap_mp.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/japcap_mp.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Kenpeitai_MP_cap
       node: end
       cost: 5
@@ -8182,17 +6746,8 @@
       sprite: Civ14/Clothing/exported/hats/japwinter_up.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/japwinter_up.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Japanese_winter_cap
       node: end
       cost: 5
@@ -8208,17 +6763,8 @@
       sprite: Civ14/Clothing/exported/hats/ww2_british_officer.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ww2_british_officer.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_British_officer_cap
       node: end
       cost: 5
@@ -8234,17 +6780,8 @@
       sprite: Civ14/Clothing/exported/hats/ww2_british_officer_tropical.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ww2_british_officer_tropical.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_British_officer_cap_1
       node: end
       cost: 5
@@ -8260,17 +6797,8 @@
       sprite: Civ14/Clothing/exported/hats/ww2_aussie.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ww2_aussie.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_British_hat
       node: end
       cost: 5
@@ -8286,17 +6814,8 @@
       sprite: Civ14/Clothing/exported/hats/ww2_british_tropical.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ww2_british_tropical.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_tropical_british_hat
       node: end
       cost: 5
@@ -8312,17 +6831,8 @@
       sprite: Civ14/Clothing/exported/hats/ww2_british_beret.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ww2_british_beret.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_British_beret
       node: end
       cost: 5
@@ -8338,17 +6848,8 @@
       sprite: Civ14/Clothing/exported/hats/fieldcap_china.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/fieldcap_china.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Chinese_cap
       node: end
       cost: 5
@@ -8364,17 +6865,8 @@
       sprite: Civ14/Clothing/exported/hats/fieldcap_china2.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/fieldcap_china2.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Chinese_cap_1
       node: end
       cost: 5
@@ -8390,17 +6882,8 @@
       sprite: Civ14/Clothing/exported/hats/cra_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/cra_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Chinese_Red_Army_cap
       node: end
       cost: 5
@@ -8416,17 +6899,8 @@
       sprite: Civ14/Clothing/exported/hats/usnco_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/usnco_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_US_nco_cap
       node: end
       cost: 5
@@ -8451,7 +6925,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_US_tanker_cap
       node: end
       cost: 5
@@ -8475,7 +6948,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_German_tanker_headset
       node: end
       cost: 5
@@ -8499,7 +6971,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Italian_tanker_headset
       node: end
       cost: 5
@@ -8524,7 +6995,6 @@
           Arrow: 0.7
           Heat: 0.85
     - type: Construction
-
       graph: civ13_head_Soviet_tanker_cap
       node: end
       cost: 5
@@ -8540,17 +7010,8 @@
       sprite: Civ14/Clothing/exported/hats/ger_officercap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ger_officercap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_German_officer_cap
       node: end
       cost: 5
@@ -8566,17 +7027,8 @@
       sprite: Civ14/Clothing/exported/hats/ger_officercap_tanker.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ger_officercap_tanker.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_German_panzer_officer_cap
       node: end
       cost: 5
@@ -8592,17 +7044,8 @@
       sprite: Civ14/Clothing/exported/hats/sov_officercap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sov_officercap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_soviet_officer_cap
       node: end
       cost: 5
@@ -8618,17 +7061,8 @@
       sprite: Civ14/Clothing/exported/hats/sovpilotka.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sovpilotka.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_soviet_pilotka
       node: end
       cost: 5
@@ -8644,17 +7078,8 @@
       sprite: Civ14/Clothing/exported/hats/ushanka_up.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ushanka_up.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_soviet_ushanka_1
       node: end
       cost: 5
@@ -8670,17 +7095,8 @@
       sprite: Civ14/Clothing/exported/hats/sscap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sscap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_SS_cap
       node: end
       cost: 5
@@ -8696,17 +7112,8 @@
       sprite: Civ14/Clothing/exported/hats/fieldcap1.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/fieldcap1.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_German_field_cap
       node: end
       cost: 5
@@ -8722,17 +7129,8 @@
       sprite: Civ14/Clothing/exported/hats/fieldcap2.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/fieldcap2.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_soviet_field_cap
       node: end
       cost: 5
@@ -8748,17 +7146,8 @@
       sprite: Civ14/Clothing/exported/hats/upa_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/upa_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_UPA_field_cap
       node: end
       cost: 5
@@ -8774,17 +7163,8 @@
       sprite: Civ14/Clothing/exported/hats/upapilotka.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/upapilotka.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_UPA_pilotka
       node: end
       cost: 5
@@ -8800,17 +7180,8 @@
       sprite: Civ14/Clothing/exported/hats/upa_off.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/upa_off.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_UPA_officer_cap
       node: end
       cost: 5
@@ -8826,17 +7197,8 @@
       sprite: Civ14/Clothing/exported/hats/upa_commander.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/upa_commander.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_UPA_officer_cap_1
       node: end
       cost: 5
@@ -8852,17 +7214,8 @@
       sprite: Civ14/Clothing/exported/hats/sov_officercap2.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sov_officercap2.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_soviet_officer_cap_1
       node: end
       cost: 5
@@ -8878,17 +7231,8 @@
       sprite: Civ14/Clothing/exported/hats/cafr_officercap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/cafr_officercap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_cafr_officer_cap
       node: end
       cost: 5
@@ -8904,17 +7248,8 @@
       sprite: Civ14/Clothing/exported/hats/fieldcap_afghanka.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/fieldcap_afghanka.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Afghanka_field_cap
       node: end
       cost: 5
@@ -8930,17 +7265,8 @@
       sprite: Civ14/Clothing/exported/hats/beret_rus_vdv.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/beret_rus_vdv.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_VDV_beret_1
       node: end
       cost: 5
@@ -8956,17 +7282,8 @@
       sprite: Civ14/Clothing/exported/hats/beret_rus_spez.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/beret_rus_spez.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Spetznaz_beret
       node: end
       cost: 5
@@ -8982,17 +7299,8 @@
       sprite: Civ14/Clothing/exported/hats/beret_rus_vdv.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/beret_rus_vdv.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Blugoslavian_beret
       node: end
       cost: 5
@@ -9008,17 +7316,8 @@
       sprite: Civ14/Clothing/exported/hats/beret_rus_spez.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/beret_rus_spez.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Redmenian_beret
       node: end
       cost: 5
@@ -9034,17 +7333,8 @@
       sprite: Civ14/Clothing/exported/hats/blugoslavia_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/blugoslavia_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Blugoslavian_navy_cap
       node: end
       cost: 5
@@ -9060,17 +7350,8 @@
       sprite: Civ14/Clothing/exported/hats/redmenia_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/redmenia_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Redmenian_navy_cap
       node: end
       cost: 5
@@ -9086,17 +7367,8 @@
       sprite: Civ14/Clothing/exported/hats/commando_bandana.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/commando_bandana.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_olive_drab_bandana
       node: end
       cost: 5
@@ -9120,7 +7392,6 @@
           Heat: 0.75
           Radiation: 0.19
     - type: Construction
-
       graph: civ13_head_yellow_NBC_hood
       node: end
       cost: 3
@@ -9144,7 +7415,6 @@
           Heat: 0.75
           Radiation: 0.19
     - type: Construction
-
       graph: civ13_head_olive_drab_NBC_hood
       node: end
       cost: 3
@@ -9168,7 +7438,6 @@
           Heat: 0.19
           Radiation: 0.6
     - type: Construction
-
       graph: civ13_head_firefighting_hood
       node: end
       cost: 5
@@ -9196,7 +7465,6 @@
           Heat: 0.9
           Radiation: -0.95
     - type: Construction
-
       graph: civ13_head_astronaut_helmet
       node: end
       cost: 5
@@ -9212,17 +7480,8 @@
       sprite: Civ14/Clothing/exported/hats/redguardcap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/redguardcap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Chinese_Red_Guard_cap
       node: end
       cost: 5
@@ -9238,17 +7497,8 @@
       sprite: Civ14/Clothing/exported/hats/bizarre_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/bizarre_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_bizarre_dark_blue_hat
       node: end
       cost: 5
@@ -9264,17 +7514,8 @@
       sprite: Civ14/Clothing/exported/hats/surgcap_white.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/surgcap_white.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_white_surgical_cap
       node: end
       cost: 5
@@ -9290,17 +7531,8 @@
       sprite: Civ14/Clothing/exported/hats/surgcap_darkgreen.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/surgcap_darkgreen.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_dark_green_surgical_cap
       node: end
       cost: 5
@@ -9316,17 +7548,8 @@
       sprite: Civ14/Clothing/exported/hats/surgcap_lightgreen.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/surgcap_lightgreen.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_light_green_surgical_cap
       node: end
       cost: 5
@@ -9342,17 +7565,8 @@
       sprite: Civ14/Clothing/exported/hats/surgcap_navy.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/surgcap_navy.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_navy_surgical_cap
       node: end
       cost: 5
@@ -9368,17 +7582,8 @@
       sprite: Civ14/Clothing/exported/hats/ac_hood.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ac_hood.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_creed_hood
       node: end
       cost: 5
@@ -9394,17 +7599,8 @@
       sprite: Civ14/Clothing/exported/hats/abashiri_guard.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/abashiri_guard.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Abashiri_Guard_Cap
       node: end
       cost: 5
@@ -9420,17 +7616,8 @@
       sprite: Civ14/Clothing/exported/hats/abashiri_guard_head.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/abashiri_guard_head.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Abashiri_Head_Guard_Cap
       node: end
       cost: 5
@@ -9446,17 +7633,8 @@
       sprite: Civ14/Clothing/exported/hats/abashiri_guard_head.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/abashiri_guard_head.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Abashiri_Warden_Cap
       node: end
       cost: 5
@@ -9472,17 +7650,8 @@
       sprite: Civ14/Clothing/exported/hats/abashiri_kasa.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/abashiri_kasa.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Kasa
       node: end
       cost: 5
@@ -9498,17 +7667,8 @@
       sprite: Civ14/Clothing/exported/hats/japcap2.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/japcap2.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Japanese_Cap_1
       node: end
       cost: 5
@@ -9524,17 +7684,8 @@
       sprite: Civ14/Clothing/exported/hats/ruscap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ruscap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Russian_Cap
       node: end
       cost: 5
@@ -9550,17 +7701,8 @@
       sprite: Civ14/Clothing/exported/hats/rusoffcap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/rusoffcap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Russian_Officer_Cap
       node: end
       cost: 5
@@ -9576,17 +7718,8 @@
       sprite: Civ14/Clothing/exported/hats/tophat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tophat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_top_hat_1
       node: end
       cost: 5
@@ -9602,17 +7735,8 @@
       sprite: Civ14/Clothing/exported/hats/flatcap1.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/flatcap1.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_brown_flat_cap
       node: end
       cost: 2
@@ -9628,17 +7752,8 @@
       sprite: Civ14/Clothing/exported/hats/flatcap2.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/flatcap2.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_blue_flat_cap
       node: end
       cost: 2
@@ -9654,17 +7769,8 @@
       sprite: Civ14/Clothing/exported/hats/flatcap3.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/flatcap3.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_grey_flat_cap
       node: end
       cost: 2
@@ -9680,17 +7786,8 @@
       sprite: Civ14/Clothing/exported/hats/fedora.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/fedora.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_fedora_hat
       node: end
       cost: 5
@@ -9706,17 +7803,8 @@
       sprite: Civ14/Clothing/exported/hats/cheka.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/cheka.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Cheka_cap
       node: end
       cost: 5
@@ -9732,17 +7820,8 @@
       sprite: Civ14/Clothing/exported/hats/papakha.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/papakha.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_papakha
       node: end
       cost: 5
@@ -9758,17 +7837,8 @@
       sprite: Civ14/Clothing/exported/hats/papakha_kuban.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/papakha_kuban.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Kuban_papakha
       node: end
       cost: 5
@@ -9784,17 +7854,8 @@
       sprite: Civ14/Clothing/exported/hats/budenovka.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/budenovka.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_budenovka
       node: end
       cost: 5
@@ -9810,17 +7871,8 @@
       sprite: Civ14/Clothing/exported/hats/germcap2.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/germcap2.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_German_cap
       node: end
       cost: 5
@@ -9836,17 +7888,8 @@
       sprite: Civ14/Clothing/exported/hats/frenchcap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/frenchcap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_French_kepi
       node: end
       cost: 5
@@ -9862,17 +7905,8 @@
       sprite: Civ14/Clothing/exported/hats/brittcap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/brittcap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_British_cap
       node: end
       cost: 5
@@ -9888,17 +7922,8 @@
       sprite: Civ14/Clothing/exported/hats/fil_off_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/fil_off_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Filipino_Officer_Cap
       node: end
       cost: 5
@@ -9916,17 +7941,8 @@
       sprite: Civ14/Clothing/exported/hats/baliwag.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/baliwag.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Baliwag
       node: end
       cost: 5
@@ -9942,17 +7958,8 @@
       sprite: Civ14/Clothing/exported/hats/us_fp_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/us_fp_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_US_Army_Hat
       node: end
       cost: 5
@@ -9968,17 +7975,8 @@
       sprite: Civ14/Clothing/exported/hats/us_fp_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/us_fp_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_cowboy_hat
       node: end
       cost: 5
@@ -9994,17 +7992,8 @@
       sprite: Civ14/Clothing/exported/hats/ncr_beret_recon.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ncr_beret_recon.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_NCR_1st_Recon_Beret
       node: end
       cost: 5
@@ -10020,17 +8009,8 @@
       sprite: Civ14/Clothing/exported/hats/furhat_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/furhat_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_fur_hat
       node: end
       cost: 2
@@ -10048,17 +8028,8 @@
       sprite: Civ14/Clothing/exported/hats/bison_fur_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/bison_fur_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_bisonhead_fur_hat
       node: end
       cost: 3
@@ -10074,17 +8045,8 @@
       sprite: Civ14/Clothing/exported/hats/furcap_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/furcap_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_fur_cap
       node: end
       cost: 2
@@ -10100,17 +8062,8 @@
       sprite: Civ14/Clothing/exported/hats/roundcap_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/roundcap_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_roundcap
       node: end
       cost: 2
@@ -10126,17 +8079,8 @@
       sprite: Civ14/Clothing/exported/hats/kerchief.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/kerchief.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_kerchief
       node: end
       cost: 2
@@ -10152,17 +8096,8 @@
       sprite: Civ14/Clothing/exported/hats/redberet.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/redberet.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_red_sailor_beret
       node: end
       cost: 2
@@ -10178,17 +8113,8 @@
       sprite: Civ14/Clothing/exported/hats/blueberet.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/blueberet.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_blue_sailor_beret
       node: end
       cost: 2
@@ -10204,17 +8130,8 @@
       sprite: Civ14/Clothing/exported/hats/tarred_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tarred_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_tarred_hat
       node: end
       cost: 3
@@ -10230,17 +8147,8 @@
       sprite: Civ14/Clothing/exported/hats/boater_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/boater_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_straw_hat
       node: end
       cost: 3
@@ -10256,17 +8164,8 @@
       sprite: Civ14/Clothing/exported/hats/tricorne_black.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tricorne_black.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_black_tricorne
       node: end
       cost: 3
@@ -10282,17 +8181,8 @@
       sprite: Civ14/Clothing/exported/hats/capotain.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/capotain.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_capotain
       node: end
       cost: 4
@@ -10308,17 +8198,8 @@
       sprite: Civ14/Clothing/exported/hats/pilgrim.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/pilgrim.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_capotain_1
       node: end
       cost: 4
@@ -10334,17 +8215,8 @@
       sprite: Civ14/Clothing/exported/hats/piratehat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/piratehat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Pirate_hat
       node: end
       cost: 5
@@ -10360,17 +8232,8 @@
       sprite: Civ14/Clothing/exported/hats/piratebandana1.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/piratebandana1.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_bandana_1
       node: end
       cost: 2
@@ -10386,17 +8249,8 @@
       sprite: Civ14/Clothing/exported/hats/tricorne_british.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tricorne_british.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_royal_navy_tricorne
       node: end
       cost: 5
@@ -10412,17 +8266,8 @@
       sprite: Civ14/Clothing/exported/hats/tricorne_british2.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tricorne_british2.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_british_Army_tricorne
       node: end
       cost: 5
@@ -10438,17 +8283,8 @@
       sprite: Civ14/Clothing/exported/hats/tricorne_british_soldier.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tricorne_british_soldier.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_black_bicorne
       node: end
       cost: 2
@@ -10464,17 +8300,8 @@
       sprite: Civ14/Clothing/exported/hats/chasseur_br.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/chasseur_br.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_british_feathered_hat
       node: end
       cost: 5
@@ -10490,17 +8317,8 @@
       sprite: Civ14/Clothing/exported/hats/tricorne_portuguese.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tricorne_portuguese.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_portuguese_navy_tricorne
       node: end
       cost: 5
@@ -10516,17 +8334,8 @@
       sprite: Civ14/Clothing/exported/hats/chasseur_pt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/chasseur_pt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_portuguese_feathered_hat
       node: end
       cost: 5
@@ -10542,17 +8351,8 @@
       sprite: Civ14/Clothing/exported/hats/tricorne_portuguese.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tricorne_portuguese.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_portuguese_army_tricorne
       node: end
       cost: 5
@@ -10568,17 +8368,8 @@
       sprite: Civ14/Clothing/exported/hats/tricorne_spanish.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tricorne_spanish.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_spanish_navy_tricorne
       node: end
       cost: 5
@@ -10594,17 +8385,8 @@
       sprite: Civ14/Clothing/exported/hats/tricorne_spanish.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tricorne_spanish.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_spanish_army_tricorne
       node: end
       cost: 5
@@ -10620,17 +8402,8 @@
       sprite: Civ14/Clothing/exported/hats/tricorne_french.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tricorne_french.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_french_navy_tricorne
       node: end
       cost: 5
@@ -10646,17 +8419,8 @@
       sprite: Civ14/Clothing/exported/hats/tricorne_french.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tricorne_french.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_french_army_tricorne
       node: end
       cost: 5
@@ -10672,17 +8436,8 @@
       sprite: Civ14/Clothing/exported/hats/chasseur_fr.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/chasseur_fr.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_french_feathered_hat
       node: end
       cost: 5
@@ -10698,17 +8453,8 @@
       sprite: Civ14/Clothing/exported/hats/tricorne_dutch.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tricorne_dutch.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_united_provinces_navy_tricorne
       node: end
       cost: 5
@@ -10724,17 +8470,8 @@
       sprite: Civ14/Clothing/exported/hats/chasseur_nl.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/chasseur_nl.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_united_Provinces_feathered_hat
       node: end
       cost: 5
@@ -10750,17 +8487,8 @@
       sprite: Civ14/Clothing/exported/hats/tricorne_dutch.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tricorne_dutch.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_united_Provinces_Army_tricorne
       node: end
       cost: 5
@@ -10776,17 +8504,8 @@
       sprite: Civ14/Clothing/exported/hats/nursehat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/nursehat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_nurse_hat
       node: end
       cost: 2
@@ -10802,17 +8521,8 @@
       sprite: Civ14/Clothing/exported/hats/bowler_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/bowler_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_bowler_hat
       node: end
       cost: 2
@@ -10828,17 +8538,8 @@
       sprite: Civ14/Clothing/exported/hats/cowboy.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/cowboy.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_cowboy_hat_1
       node: end
       cost: 3
@@ -10854,17 +8555,8 @@
       sprite: Civ14/Clothing/exported/hats/cowboy2.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/cowboy2.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_dark_cowboy_hat
       node: end
       cost: 3
@@ -10882,17 +8574,8 @@
       sprite: Civ14/Clothing/exported/hats/vaquerohat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/vaquerohat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_vaquero_hat
       node: end
       cost: 4
@@ -10910,17 +8593,8 @@
       sprite: Civ14/Clothing/exported/hats/bandit.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/bandit.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_bandit_hat
       node: end
       cost: 4
@@ -10936,17 +8610,8 @@
       sprite: Civ14/Clothing/exported/hats/union_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/union_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_dark_union_hat
       node: end
       cost: 5
@@ -10962,17 +8627,8 @@
       sprite: Civ14/Clothing/exported/hats/union_hat2.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/union_hat2.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_light_union_hat
       node: end
       cost: 5
@@ -10988,17 +8644,8 @@
       sprite: Civ14/Clothing/exported/hats/confederate_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/confederate_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_grey_confederate_hat
       node: end
       cost: 5
@@ -11014,17 +8661,8 @@
       sprite: Civ14/Clothing/exported/hats/union_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/union_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_union_Cap
       node: end
       cost: 5
@@ -11040,17 +8678,8 @@
       sprite: Civ14/Clothing/exported/hats/confederate_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/confederate_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_confederate_cap
       node: end
       cost: 5
@@ -11066,17 +8695,8 @@
       sprite: Civ14/Clothing/exported/hats/sombrero.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sombrero.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_sombrero
       node: end
       cost: 4
@@ -11094,17 +8714,8 @@
       sprite: Civ14/Clothing/exported/hats/ten_gallon_hat_white.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ten_gallon_hat_white.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_white_ten_gallon_hat
       node: end
       cost: 5
@@ -11120,17 +8731,8 @@
       sprite: Civ14/Clothing/exported/hats/artisan.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/artisan.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_artisan_hat
       node: end
       cost: 2
@@ -11146,17 +8748,8 @@
       sprite: Civ14/Clothing/exported/hats/feathered_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/feathered_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_feathered_hat
       node: end
       cost: 3
@@ -11172,17 +8765,8 @@
       sprite: Civ14/Clothing/exported/hats/medieval_count_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/medieval_count_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_count_hat
       node: end
       cost: 5
@@ -11198,17 +8782,8 @@
       sprite: Civ14/Clothing/exported/hats/cavalier.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/cavalier.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_cavalier_hat
       node: end
       cost: 3
@@ -11224,17 +8799,8 @@
       sprite: Civ14/Clothing/exported/hats/noblehat1.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/noblehat1.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_brown_noble_hat
       node: end
       cost: 5
@@ -11250,17 +8816,8 @@
       sprite: Civ14/Clothing/exported/hats/noblehat2.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/noblehat2.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_black_noble_hat
       node: end
       cost: 5
@@ -11278,17 +8835,8 @@
       sprite: Civ14/Clothing/exported/hats/phrigian_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/phrigian_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_phrigian_hat
       node: end
       cost: 4
@@ -11306,17 +8854,8 @@
       sprite: Civ14/Clothing/exported/hats/doge.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/doge.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_doge_hat
       node: end
       cost: 4
@@ -11334,17 +8873,8 @@
       sprite: Civ14/Clothing/exported/hats/black_cape.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/black_cape.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_long_black_hooded_cape
       node: end
       cost: 6
@@ -11362,17 +8892,8 @@
       sprite: Civ14/Clothing/exported/hats/plaguedoctor.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/plaguedoctor.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_plague_doctor_hat
       node: end
       cost: 4
@@ -11390,17 +8911,8 @@
       sprite: Civ14/Clothing/exported/hats/nun_hood.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/nun_hood.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_nun_hood
       node: end
       cost: 4
@@ -11416,17 +8928,8 @@
       sprite: Civ14/Clothing/exported/hats/turban1.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/turban1.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_turban
       node: end
       cost: 2
@@ -11442,17 +8945,8 @@
       sprite: Civ14/Clothing/exported/hats/turban_w.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/turban_w.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_white_turban
       node: end
       cost: 2
@@ -11468,17 +8962,8 @@
       sprite: Civ14/Clothing/exported/hats/sultan.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/sultan.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_grand_turban
       node: end
       cost: 5
@@ -11494,17 +8979,8 @@
       sprite: Civ14/Clothing/exported/hats/toadstool.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/toadstool.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_toadstool_hat
       node: end
       cost: 5
@@ -11520,17 +8996,8 @@
       sprite: Civ14/Clothing/exported/hats/keffiyeh_black.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/keffiyeh_black.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_keffiyeh
       node: end
       cost: 5
@@ -11546,17 +9013,8 @@
       sprite: Civ14/Clothing/exported/hats/pakol_rose.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/pakol_rose.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_pakol
       node: end
       cost: 5
@@ -11572,17 +9030,8 @@
       sprite: Civ14/Clothing/exported/hats/mayan_headdress.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/mayan_headdress.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_mayan_headdress
       node: end
       cost: 4
@@ -11600,17 +9049,8 @@
       sprite: Civ14/Clothing/exported/hats/steppe_shaman_wool_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/steppe_shaman_wool_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_steppe_shaman_wool_hat
       node: end
       cost: 4
@@ -11625,17 +9065,8 @@
       sprite: Civ14/Clothing/exported/hats/gat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/gat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_gat_hat
       node: end
       cost: 2
@@ -11651,17 +9082,8 @@
       sprite: Civ14/Clothing/exported/hats/fieldcap_rus_fed.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/fieldcap_rus_fed.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_Russian_Federal_Forces_service_cap
       node: end
       cost: 5
@@ -11677,17 +9099,8 @@
       sprite: Civ14/Clothing/exported/hats/black_bandana.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/black_bandana.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_black_bandana
       node: end
       cost: 5
@@ -11705,17 +9118,8 @@
       sprite: Civ14/Clothing/exported/hats/black_shemagh.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/black_shemagh.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_black_shemagh
       node: end
       cost: 5
@@ -11731,17 +9135,8 @@
       sprite: Civ14/Clothing/exported/hats/tfc.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/tfc.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_TFC_Cap
       node: end
       cost: 5
@@ -11757,17 +9152,8 @@
       sprite: Civ14/Clothing/exported/hats/maga.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/maga.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_MAGA_hat
       node: end
       cost: 5
@@ -11783,17 +9169,8 @@
       sprite: Civ14/Clothing/exported/hats/fbi.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/fbi.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_FBI_hat
       node: end
       cost: 5
@@ -11809,17 +9186,8 @@
       sprite: Civ14/Clothing/exported/hats/atf.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/atf.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_ATF_hat
       node: end
       cost: 5
@@ -11835,17 +9203,8 @@
       sprite: Civ14/Clothing/exported/hats/dea.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/dea.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_DEA_hat
       node: end
       cost: 5
@@ -11861,17 +9220,8 @@
       sprite: Civ14/Clothing/exported/hats/ukraine_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/ukraine_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_ACU_field_cap
       node: end
       cost: 5
@@ -11887,17 +9237,8 @@
       sprite: Civ14/Clothing/exported/hats/usec_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/usec_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_USEC_field_cap
       node: end
       cost: 5
@@ -11913,17 +9254,8 @@
       sprite: Civ14/Clothing/exported/hats/bear_cap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/bear_cap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_BEAR_field_cap
       node: end
       cost: 5
@@ -11939,17 +9271,8 @@
       sprite: Civ14/Clothing/exported/hats/black_beanie.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/black_beanie.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_black_beanie
       node: end
       cost: 5
@@ -11967,17 +9290,8 @@
       sprite: Civ14/Clothing/exported/hats/zulu_umghele.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/zulu_umghele.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_umghele_headband
       node: end
       cost: 2
@@ -11993,17 +9307,8 @@
       sprite: Civ14/Clothing/exported/hats/leaf_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/leaf_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_leaf_head_covering
       node: end
       cost: 3
@@ -12018,17 +9323,8 @@
       sprite: Civ14/Clothing/exported/hats/leaf_crown.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/leaf_crown.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_leaf_crown
       node: end
       cost: 5
@@ -12045,17 +9341,8 @@
       sprite: Civ14/Clothing/exported/hats/star_platinum.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/star_platinum.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_star_platinum_headband
       node: end
       cost: 5
@@ -12071,17 +9358,8 @@
       sprite: Civ14/Clothing/exported/hats/chief_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/chief_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_chief_hat
       node: end
       cost: 5
@@ -12097,17 +9375,8 @@
       sprite: Civ14/Clothing/exported/hats/lizardpelt.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/lizardpelt.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_lizard_pelt_headcover
       node: end
       cost: 3
@@ -12123,17 +9392,8 @@
       sprite: Civ14/Clothing/exported/hats/mystic.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/mystic.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_mystic_hood
       node: end
       cost: 5
@@ -12149,17 +9409,8 @@
       sprite: Civ14/Clothing/exported/hats/customcap.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/customcap.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_officer_cap
       node: end
       cost: 4
@@ -12175,17 +9426,8 @@
       sprite: Civ14/Clothing/exported/hats/keffiyeh_custom.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/keffiyeh_custom.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_keffiyeh_1
       node: end
       cost: 2
@@ -12201,17 +9443,8 @@
       sprite: Civ14/Clothing/exported/hats/custfeathercap_hat.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/custfeathercap_hat.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_feathered_cap
       node: end
       cost: 4
@@ -12227,17 +9460,8 @@
       sprite: Civ14/Clothing/exported/hats/custom_hennin.rsi
     - type: Clothing
       sprite: Civ14/Clothing/exported/hats/custom_hennin.rsi
-    - type: Armor
-      modifiers:
-        coefficients:
-          Blunt: 1
-          Slash: 1
-          Piercing: 1
-          Arrow: 1
-          Heat: 1
-          Radiation: 1
-    - type: Construction
 
+    - type: Construction
       graph: civ13_head_hennin
       node: end
       cost: 2

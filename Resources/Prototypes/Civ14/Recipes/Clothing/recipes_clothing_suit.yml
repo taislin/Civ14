@@ -2240,33 +2240,7 @@
               doAfter: 11
     - node: end
       entity: civ13_suit_red_jacket
-- type: construction
-  name: bronze chinese lamellar
-  id: civ13_suit_bronze_chinese_lamellar
-  graph: civ13_suit_bronze_chinese_lamellar
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A bronze lamellar armor, used by warriors of early chinese dynasties.
-  icon:
-    sprite: Civ14/Clothing/exported/suits/chinese_lamellar.rsi
-    state: icon
-  objectType: Item
-  agemin: 8
-  agemax: 8
-- type: constructionGraph
-  id: civ13_suit_bronze_chinese_lamellar
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Cloth
-              amount: 5
-              doAfter: 5
-    - node: end
-      entity: civ13_suit_bronze_chinese_lamellar
+
 - type: construction
   name: american coat
   id: civ13_suit_american_coat
@@ -4616,60 +4590,7 @@
               doAfter: 10
     - node: end
       entity: civ13_suit_linothorax_armor
-- type: construction
-  name: bronze egyptian lamellar
-  id: civ13_suit_bronze_egyptian_lamellar
-  graph: civ13_suit_bronze_egyptian_lamellar
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A bronze lamellar armor, used by soldiers of pharoahic dynasties.
-  icon:
-    sprite: Civ14/Clothing/exported/suits/egyptian_lamellar.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 8
-- type: constructionGraph
-  id: civ13_suit_bronze_egyptian_lamellar
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Bronze
-              amount: 6
-              doAfter: 10
-    - node: end
-      entity: civ13_suit_bronze_egyptian_lamellar
-- type: construction
-  name: scaled armor
-  id: civ13_suit_scaled_armor
-  graph: civ13_suit_scaled_armor
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: An armor made of serveral scales made of bronze.
-  icon:
-    sprite: Civ14/Clothing/exported/suits/scaled_armor.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 8
-- type: constructionGraph
-  id: civ13_suit_scaled_armor
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Bronze
-              amount: 6
-              doAfter: 10
-    - node: end
-      entity: civ13_suit_scaled_armor
+
 - type: construction
   name: aztec harness
   id: civ13_suit_aztec_harness
@@ -4994,33 +4915,7 @@
               doAfter: 5
     - node: end
       entity: civ13_suit_templar_plated_armor
-- type: construction
-  name: bronze chestplate
-  id: civ13_suit_bronze_chestplate
-  graph: civ13_suit_bronze_chestplate
-  startNode: start
-  targetNode: end
-  category: construction-category-clothing
-  description: A bronze chestplate.
-  icon:
-    sprite: Civ14/Clothing/exported/suits/bronze_chestplate.rsi
-    state: icon
-  objectType: Item
-  agemin: 1
-  agemax: 8
-- type: constructionGraph
-  id: civ13_suit_bronze_chestplate
-  start: start
-  graph:
-    - node: start
-      edges:
-        - to: end
-          steps:
-            - material: Bronze
-              amount: 6
-              doAfter: 17
-    - node: end
-      entity: civ13_suit_bronze_chestplate
+
 - type: construction
   name: iron chestplate
   id: civ13_suit_iron_chestplate

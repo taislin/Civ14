@@ -18,7 +18,9 @@ public sealed class PowerReceiverSystem : SharedPowerReceiverSystem
 
     private void OnExamined(Entity<ApcPowerReceiverComponent> ent, ref ExaminedEvent args)
     {
-        args.PushMarkup(GetExamineText(ent.Comp.Powered));
+        if (ent.Comp.NeedsPower){
+            args.PushMarkup(GetExamineText(ent.Comp.Powered));
+        }
     }
 
     private void OnHandleState(EntityUid uid, ApcPowerReceiverComponent component, ref ComponentHandleState args)

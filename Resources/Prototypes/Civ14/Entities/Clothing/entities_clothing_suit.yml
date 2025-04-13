@@ -2306,13 +2306,7 @@
           Piercing: 0.92
           Arrow: 0.65
           Heat: 0.85
-    - type: Construction
 
-      graph: civ13_suit_bronze_chinese_lamellar
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: american coat
   parent: ClothingOuterBase
@@ -4521,14 +4515,7 @@
           Piercing: 0.92
           Arrow: 0.65
           Heat: 0.85
-          Radiation: 0
-    - type: Construction
 
-      graph: civ13_suit_bronze_egyptian_lamellar
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: scaled armor
   parent: ClothingOuterBase
@@ -4544,16 +4531,10 @@
         coefficients:
           Blunt: 0.5
           Slash: 0.5
-          Piercing: 0.92
-          Arrow: 0.65
+          Piercing: 0.90
+          Arrow: 0.55
           Heat: 0.85
-    - type: Construction
 
-      graph: civ13_suit_scaled_armor
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: aztec harness
   parent: ClothingOuterBase
@@ -4880,17 +4861,12 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.5
-          Slash: 0.5
-          Piercing: 0.92
-          Arrow: 0.65
-          Heat: 0.85
-    - type: Construction
+          Blunt: 0.85
+          Slash: 0.85
+          Piercing: 0.85
+          Arrow: 0.85
+          Heat: 0.9
 
-      graph: civ13_suit_bronze_chestplate
-      node: end
-      cost: 6
-      time: 17
 - type: entity
   name: iron chestplate
   parent: ClothingOuterBase
@@ -4904,11 +4880,11 @@
     - type: Armor
       modifiers:
         coefficients:
-          Blunt: 0.4
-          Slash: 0.4
-          Piercing: 0.92
-          Arrow: 0.6
-          Heat: 0.85
+          Blunt: 0.8
+          Slash: 0.8
+          Piercing: 0.8
+          Arrow: 0.8
+          Heat: 0.9
     - type: Construction
 
       graph: civ13_suit_iron_chestplate

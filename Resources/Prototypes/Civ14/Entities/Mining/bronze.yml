@@ -1,22 +1,23 @@
 - type: material
   id: Bronze
-  stackEntity: MaterialBronze1
+  stackEntity: IngotBronze1
   name: materials-bronze
   icon: { sprite: Objects/Materials/ingots.rsi, state: sheet-bronze }
   color: "#cd7f32"
   price: 0.05
 
 - type: entity
-  parent: MaterialBase
-  id: MaterialBronze
-  name: bronze
+  parent: IngotBase
+  id: IngotBronze
+  name: bronze ingot
   suffix: Full
   components:
     - type: Material
+    - type: Item
+      heldPrefix: gold
     - type: PhysicalComposition
       materialComposition:
-        Tin: 10
-        Copper: 90
+        Bronze: 100
     - type: Sprite
       sprite: "Objects/Materials/ingots.rsi"
       state: sheet-bronze
@@ -43,8 +44,8 @@
     - type: Appearance
 
 - type: entity
-  parent: MaterialBronze
-  id: MaterialBronze1
+  parent: IngotBronze
+  id: IngotBronze1
   suffix: Single
   components:
     - type: Sprite
@@ -57,5 +58,5 @@
   id: Bronze
   name: bronze
   icon: { sprite: /Textures/Objects/Materials/ingots.rsi, state: sheet-bronze }
-  spawn: MaterialBronze1
+  spawn: IngotBronze1
   maxCount: 10

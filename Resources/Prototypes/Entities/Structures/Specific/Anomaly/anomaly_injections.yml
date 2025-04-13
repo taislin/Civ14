@@ -312,7 +312,6 @@
             - WallSpawnAsteroidSilver
             - WallSpawnAsteroidSilverCrab
             - WallSpawnAsteroidIron
-            - WallSpawnAsteroidIronCrab
             - WallSpawnAsteroidQuartz
             - WallSpawnAsteroidQuartzCrab
         - settings:
@@ -339,7 +338,6 @@
             - WallSpawnAsteroidSilver
             - WallSpawnAsteroidSilverCrab
             - WallSpawnAsteroidIron
-            - WallSpawnAsteroidIronCrab
             - WallSpawnAsteroidQuartz
             - WallSpawnAsteroidQuartzCrab
         - settings:
@@ -349,7 +347,6 @@
             maxRange: 3
           spawns:
             - MobSpawnCrabSilver
-            - MobSpawnCrabIron
             - MobSpawnCrabQuartz
 
 - type: entity

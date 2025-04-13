@@ -279,7 +279,7 @@
   graph: FletchersWorkstation
   startNode: start
   targetNode: end
-  category: construction-category-tools
+  category: construction-category-production
   description: Used to produce bows and arrows.
   icon: { sprite: Civ14/Objects/structures.rsi, state: fletchersbench }
   objectType: Structure

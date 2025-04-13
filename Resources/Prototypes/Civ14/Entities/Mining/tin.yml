@@ -40,16 +40,16 @@
 
 - type: material
   id: Tin
-  stackEntity: MaterialTin1
+  stackEntity: IngotTin1
   name: materials-tin
   icon: { sprite: Objects/Materials/ingots.rsi, state: iron }
   color: "#919191"
   price: 0.05
 
 - type: entity
-  parent: MaterialBase
-  id: MaterialTin
-  name: tin
+  parent: IngotBase
+  id: IngotTin
+  name: tin ingot
   suffix: Full
   components:
     - type: Material
@@ -82,8 +82,8 @@
       heldPrefix: iron
 
 - type: entity
-  parent: MaterialTin
-  id: MaterialTin1
+  parent: IngotTin
+  id: IngotTin1
   suffix: Single
   components:
     - type: Sprite
@@ -96,7 +96,7 @@
   id: Tin
   name: tin
   icon: { sprite: /Textures/Objects/Materials/ingots.rsi, state: iron }
-  spawn: MaterialTin1
+  spawn: IngotTin1
   maxCount: 10
 
 - type: stack

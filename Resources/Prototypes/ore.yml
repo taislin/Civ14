@@ -2,11 +2,6 @@
 # Split it into 2 components, 1 for "spawn XYZ on destruction" and 1 for "randomly select one of these for spawn on destruction"
 
 # High yields
-- type: ore
-  id: OreSteel
-  oreEntity: SteelOre1
-  minOreYield: 1
-  maxOreYield: 5
 
 - type: ore
   id: OreSpaceQuartz
@@ -81,10 +76,6 @@
   oreEntity: MobSpawnCrabQuartz
 
 - type: ore
-  id: OreIronCrab
-  oreEntity: MobSpawnCrabIron
-
-- type: ore
   id: OreCoalCrab
   oreEntity: MobSpawnCrabCoal
 
@@ -109,7 +100,7 @@
 - type: weightedRandomOre
   id: RandomOreDistributionStandard
   weights:
-    OreSteel: 10
+    OreIron: 10
     OreCoal: 10
     OreSpaceQuartz: 8
     OreGold: 2
@@ -123,6 +114,5 @@
   id: OreCrab
   weights:
     OreQuartzCrab: 5
-    OreIronCrab: 5
     OreUraniumCrab: 2
     OreSilverCrab: 3

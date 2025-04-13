@@ -73,6 +73,7 @@ public abstract class SharedPowerReceiverSystem : EntitySystem
         return entity.Comp.Powered;
     }
 
+
     protected string GetExamineText(bool powered)
     {
         return Loc.GetString("power-receiver-component-on-examine-main",

@@ -916,13 +916,7 @@
           Arrow: 1
           Heat: 1
           Radiation: 1
-    - type: Construction
 
-      graph: civ13_uniform_greek_uniform
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: greek uniform
   parent: ClothingUniformBase
@@ -944,13 +938,7 @@
           Arrow: 1
           Heat: 1
           Radiation: 1
-    - type: Construction
 
-      graph: civ13_uniform_greek_uniform_1
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: greek uniform
   parent: ClothingUniformBase
@@ -972,13 +960,7 @@
           Arrow: 1
           Heat: 1
           Radiation: 1
-    - type: Construction
 
-      graph: civ13_uniform_greek_uniform_1_2
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: greek commander uniform
   parent: ClothingUniformBase
@@ -1000,13 +982,7 @@
           Arrow: 1
           Heat: 1
           Radiation: 1
-    - type: Construction
 
-      graph: civ13_uniform_greek_commander_uniform
-      node: end
-      cost: 5
-      material: Cloth
-      time: 5
 - type: entity
   name: white tunic
   parent: ClothingUniformBase

@@ -128,37 +128,6 @@
 
 - type: entity
   parent: MobOreCrab
-  id: MobIronCrab
-  description: An ore crab made from iron.
-  components:
-  - type: Sprite
-    state: iron_crab
-  - type: MeleeWeapon
-    damage:
-      types:
-        Blunt: 5
-  - type: MovementSpeedModifier
-    baseWalkSpeed : 1.5
-    baseSprintSpeed : 2
-  - type: Destructible
-    thresholds:
-    - trigger:
-        !type:DamageTrigger
-        damage: 80
-      behaviors:
-      - !type:PlaySoundBehavior
-        sound:
-          collection: GlassBreak
-      - !type:SpawnEntitiesBehavior
-        spawn:
-          SteelOre1:
-            min: 2
-            max: 4
-      - !type:DoActsBehavior
-        acts: [ "Destruction" ]
-
-- type: entity
-  parent: MobOreCrab
   id: MobCoalCrab
   description: An ore crab made from coal.
   components:

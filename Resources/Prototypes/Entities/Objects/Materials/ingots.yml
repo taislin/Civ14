@@ -1,6 +1,6 @@
 - type: entity
   abstract: true
-  parent: BaseItem
+  parent: MaterialBase
   id: IngotBase
   description: A heavy metal ingot.
   components:
@@ -14,6 +14,7 @@
     - type: Tag
       tags:
         - Ingot
+        - RawMaterial
     - type: Damageable
       damageContainer: Inorganic
       damageModifierSet: Metallic
@@ -28,7 +29,7 @@
 - type: entity
   parent: IngotBase
   id: IngotGold
-  name: gold bar
+  name: gold ingot
   suffix: Full
   components:
     - type: Material
@@ -62,7 +63,7 @@
 - type: entity
   parent: IngotGold
   id: IngotGold1
-  name: gold bar
+  name: gold ingot
   suffix: Single
   components:
     - type: Sprite
@@ -73,7 +74,7 @@
 - type: entity
   parent: IngotBase
   id: IngotSilver
-  name: silver bar
+  name: silver ingot
   suffix: Full
   components:
     - type: Material
@@ -107,7 +108,7 @@
 - type: entity
   parent: IngotSilver
   id: IngotSilver1
-  name: silver bar
+  name: silver ingot
   suffix: Single
   components:
     - type: Sprite

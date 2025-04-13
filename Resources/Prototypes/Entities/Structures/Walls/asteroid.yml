@@ -274,7 +274,7 @@
   components:
     - type: OreVein
       oreChance: 1.0
-      currentOre: OreSteel
+      currentOre: OreIron
     - type: Sprite
       layers:
         - state: rock_asteroid
@@ -288,15 +288,6 @@
           state: rock_asteroid_west
         - state: rock_tin
           map: ["enum.MiningScannerVisualLayers.Overlay"]
-
-- type: entity
-  id: AsteroidRockTinCrab
-  parent: AsteroidRockTin
-  suffix: Iron Crab
-  components:
-    - type: OreVein
-      oreChance: 1.0
-      currentOre: OreIronCrab
 
 - type: entity
   id: AsteroidRockUranium
@@ -572,7 +563,7 @@
   components:
     - type: OreVein
       oreChance: 1.0
-      currentOre: OreSteel
+      currentOre: OreIron
     - type: Sprite
       layers:
         - state: ironrock
@@ -937,7 +928,7 @@
         WallRockSnow: WallRockSnowTin
     - type: OreVein
       oreChance: 1.0
-      currentOre: OreSteel
+      currentOre: OreIron
     - type: Sprite
       layers:
         - state: rock
@@ -1240,7 +1231,7 @@
   components:
     - type: OreVein
       oreChance: 1.0
-      currentOre: OreSteel
+      currentOre: OreIron
     - type: Sprite
       layers:
         - state: rock_wall
@@ -1515,7 +1506,7 @@
   components:
     - type: OreVein
       oreChance: 1.0
-      currentOre: OreSteel
+      currentOre: OreIron
     - type: Sprite
       layers:
         - state: rock_snow
@@ -1790,7 +1781,7 @@
   components:
     - type: OreVein
       oreChance: 1.0
-      currentOre: OreSteel
+      currentOre: OreIron
     - type: Sprite
       layers:
         - state: rock_sand
@@ -2065,7 +2056,7 @@
   components:
     - type: OreVein
       oreChance: 1.0
-      currentOre: OreSteel
+      currentOre: OreIron
     - type: Sprite
       layers:
         - state: rock_chromite
@@ -2340,7 +2331,7 @@
   components:
     - type: OreVein
       oreChance: 1.0
-      currentOre: OreSteel
+      currentOre: OreIron
     - type: Sprite
       layers:
         - state: rock_andesite
