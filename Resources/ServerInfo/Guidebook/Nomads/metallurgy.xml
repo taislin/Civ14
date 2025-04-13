@@ -48,7 +48,7 @@ Gold is the rarest metal, and is used in currency and fancy accessories. Gold ha
 
 ## Tin
 
-<GuideEntityEmbed Entity="IngotTin" />
+<GuideEntityEmbed Entity="MaterialTin" />
 
 Tin is a somewhat rare metal, mostly used to make bronze together with cooper.
 
@@ -62,7 +62,7 @@ Later in the game, you will need copper to produce electric and electronic produ
 
 ## Bronze
 
-<GuideEntityEmbed Entity="IngotBronze" />
+<GuideEntityEmbed Entity="MaterialBronze" />
 
 Bronze is an alloy of tin and copper. You need to melt 9 parts of copper to 1 part of tin (9:1 ratio) in a [bold]kiln[bold]. For example, 1 unit of tin and 9 units of copper make 10 units of bronze.
 
@@ -77,7 +77,7 @@ Work sponge iron at any anvil into usable iron ingots.
 
 ## Steel
 
-<GuideEntityEmbed Entity="IngotSteel" />
+<GuideEntityEmbed Entity="SheetSteel" />
 Smelt raw iron ore in the [bold]blast furnace[bold] to obtain pig iron.
 Work pig iron at the iron or steel anvil into usable steel sheets.
 </Document>
