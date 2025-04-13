@@ -17,14 +17,14 @@ Entries:
         type: Tweak
     id: 1
     time: "2025-04-06T00:00:00.0000000+00:00"
-    url: https://github.com/Civ13/Civ14/pulls
+    url: https://github.com/Civ13/Civ14/pull/84
   - author: Taislin
     changes:
       - message: Added several healing herbs to the game. Yarrow (heals blood loss), Poppy (heals shock), Milk Thistle (heals poison), Elderflower (heals oxygen damage), Aloe Vera (heals burns, cold damage), Comfrey (heals blunt damage).
         type: Add
     id: 2
     time: "2025-04-07T00:00:00.0000000+00:00"
-    url: https://github.com/Civ13/Civ14/pulls
+    url: https://github.com/Civ13/Civ14/pull/93
   - author: Taislin
     changes:
       - message: Added braziers to keep you warm and burn rubbish you might have laying around.
@@ -35,7 +35,7 @@ Entries:
         type: Add
     id: 3
     time: "2025-04-09T00:00:00.0000000+00:00"
-    url: https://github.com/Civ13/Civ14/pulls
+    url: https://github.com/Civ13/Civ14/pull/96
   - author: Taislin
     changes:
       - message: Added paintbrushes and signs that can be painted.
@@ -46,4 +46,13 @@ Entries:
         type: Add
     id: 4
     time: "2025-04-10T00:00:00.0000000+00:00"
-    url: https://github.com/Civ13/Civ14/pulls
+    url: https://github.com/Civ13/Civ14/pull/98
+  - author: Taislin
+    changes:
+      - message: Added bedrolls.
+        type: Add
+      - message: Added the whole metallurgy mechanic, check wiki.
+        type: Add
+    id: 5
+    time: "2025-04-13T00:00:00.0000000+00:00"
+    url: https://github.com/Civ13/Civ14/pull/107
